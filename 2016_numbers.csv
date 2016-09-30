@@ -1,0 +1,608 @@
+Rank,Movie,ReleaseDate,Distributor,Genre,MPAA,Gross,Tickets Sold
+1,Finding Dory,6/17/2016 0:00:00,Walt Disney,Adventure,PG,484234949,57441868
+2,Captain America: Civil War,5/6/2016 0:00:00,Walt Disney,Action,PG-13,408084349,48408582
+3,The Secret Life of Pets,7/8/2016 0:00:00,Universal,Adventure,PG,364453520,43232920
+4,The Jungle Book,4/15/2016 0:00:00,Walt Disney,Adventure,PG,363999299,43179039
+5,Deadpool,2/12/2016 0:00:00,20th Century Fox,Action,R,363070709,43068886
+6,Zootopia,3/4/2016 0:00:00,Walt Disney,Adventure,PG,341268248,40482591
+7,Batman v Superman: Dawn of Justice,3/25/2016 0:00:00,Warner Bros.,Action,PG-13,330360194,39188635
+8,Suicide Squad,8/5/2016 0:00:00,Warner Bros.,Action,PG-13,318779276,37814860
+9,Star Wars Ep. VII: The Force Awakens,12/18/2015 0:00:00,Walt Disney,Adventure,PG-13,194453283,23066818
+10,The Revenant,12/25/2015 0:00:00,20th Century Fox,Adventure,R,182317546,21627229
+11,Jason Bourne,7/29/2016 0:00:00,Universal,Action,PG-13,161452040,19152080
+12,Star Trek Beyond,7/22/2016 0:00:00,Paramount Pictures,Adventure,PG-13,158191001,18765243
+13,X-Men: Apocalypse,5/27/2016 0:00:00,20th Century Fox,Action,PG-13,155442489,18439203
+14,Kung Fu Panda 3,1/29/2016 0:00:00,20th Century Fox,Adventure,PG,143528619,17025933
+15,Ghostbusters,7/15/2016 0:00:00,Sony Pictures,Comedy,PG-13,127448192,15118409
+16,Central Intelligence,6/17/2016 0:00:00,Warner Bros.,Comedy,PG-13,127440871,15117541
+17,The Legend of Tarzan,7/1/2016 0:00:00,Warner Bros.,Adventure,PG-13,126643061,15022901
+18,Bad Moms,7/29/2016 0:00:00,STX Entertainment,Comedy,R,111965902,13281838
+19,The Angry Birds Movie,5/20/2016 0:00:00,Sony Pictures,Adventure,PG,107509366,12753186
+20,Independence Day: Resurgence,6/24/2016 0:00:00,20th Century Fox,Action,PG-13,103144286,12235383
+21,The Conjuring 2: The Enfield Poltergeist,6/10/2016 0:00:00,Warner Bros.,Horror,R,102470008,12155398
+22,Sausage Party,8/12/2016 0:00:00,Sony Pictures,Comedy,R,96551624,11453336
+23,Sully,9/9/2016 0:00:00,Warner Bros.,Drama,PG-13,95862791,11371624
+24,Ride Along 2,1/15/2016 0:00:00,Universal,Comedy,PG-13,90862685,10778491
+25,Don’t Breathe,8/26/2016 0:00:00,Sony Pictures,Horror,R,82095084,9738444
+26,Teenage Mutant Ninja Turtles: Out of the Shadows,6/3/2016 0:00:00,Paramount Pictures,Adventure,PG-13,82051601,9733286
+27,The Purge: Election Year,7/1/2016 0:00:00,Universal,Horror,R,79042440,9376327
+28,Alice Through the Looking Glass,5/27/2016 0:00:00,Walt Disney,Adventure,PG,77042381,9139072
+29,Pete’s Dragon,8/12/2016 0:00:00,Walt Disney,Adventure,PG,74386959,8824075
+30,10 Cloverfield Lane,3/11/2016 0:00:00,Paramount Pictures,Thriller/Suspense,PG-13,72082999,8550770
+31,Lights Out,7/22/2016 0:00:00,Warner Bros.,Horror,PG-13,67260966,7978762
+32,The Divergent Series: Allegiant,3/18/2016 0:00:00,Lionsgate,Action,PG-13,66184051,7851014
+33,Now You See Me 2,6/10/2016 0:00:00,Lionsgate,Thriller/Suspense,PG-13,65075540,7719518
+34,Ice Age: Collision Course,7/22/2016 0:00:00,20th Century Fox,Adventure,PG,63715448,7558178
+35,The Boss,4/8/2016 0:00:00,Universal,Comedy,R,63077560,7482510
+36,London Has Fallen,3/4/2016 0:00:00,Focus Features,Action,R,62524260,7416875
+37,Miracles from Heaven,3/16/2016 0:00:00,Sony Pictures,Drama,PG,61705123,7319706
+38,My Big Fat Greek Wedding 2,3/25/2016 0:00:00,Universal,Comedy,PG-13,59689605,7080617
+39,Daddy’s Home,12/25/2015 0:00:00,Paramount Pictures,Comedy,PG-13,56467276,6698372
+40,Me Before You,6/3/2016 0:00:00,Warner Bros.,Drama,PG-13,56245075,6672013
+41,The BFG,7/1/2016 0:00:00,Walt Disney,Adventure,PG,55383185,6569772
+42,Neighbors 2: Sorority Rising,5/20/2016 0:00:00,Universal,Comedy,R,55340730,6564736
+43,The Shallows,6/24/2016 0:00:00,Sony Pictures,Drama,PG-13,55121623,6538745
+44,Barbershop: The Next Cut,4/15/2016 0:00:00,Warner Bros.,Comedy,PG,54030051,6409258
+45,13 Hours: The Secret Soldiers of Benghazi,1/15/2016 0:00:00,Paramount Pictures,Drama,R,52853219,6269658
+46,The Huntsman: Winter’s War,4/22/2016 0:00:00,Universal,Action,PG-13,48003015,5694307
+47,Warcraft,6/10/2016 0:00:00,Universal,Action,PG-13,47225655,5602094
+48,How to be Single,2/12/2016 0:00:00,Warner Bros.,Romantic Comedy,R,46843513,5556763
+49,Kubo and the Two Strings,8/19/2016 0:00:00,Focus Features,Adventure,PG,46218180,5482583
+50,Mike and Dave Need Wedding Dates,7/8/2016 0:00:00,20th Century Fox,Comedy,R,45985309,5454959
+51,The Magnificent Seven,9/23/2016 0:00:00,Sony Pictures,Western,PG-13,43754232,5190300
+52,War Dogs,8/19/2016 0:00:00,Warner Bros.,Comedy,R,42611551,5054751
+53,Money Monster,5/13/2016 0:00:00,Sony Pictures,Thriller/Suspense,R,41012075,4865014
+54,Nerve,7/27/2016 0:00:00,Lionsgate,Thriller/Suspense,PG-13,38492772,4566165
+55,The Big Short,12/11/2015 0:00:00,Paramount Pictures,Drama,R,37204389,4413332
+56,Risen,2/19/2016 0:00:00,Sony Pictures,Drama,PG-13,36880033,4374855
+57,The Nice Guys,5/20/2016 0:00:00,Warner Bros.,Black Comedy,R,36261763,4301513
+58,The Boy,1/22/2016 0:00:00,STX Entertainment,Horror,PG-13,35819556,4249057
+59,Dirty Grandpa,1/22/2016 0:00:00,Lionsgate,Comedy,R,35593113,4222196
+60,The 5th Wave,1/22/2016 0:00:00,Sony Pictures,Action,PG-13,34912982,4141516
+61,Mother’s Day,4/29/2016 0:00:00,Open Road,Romantic Comedy,PG-13,32492859,3854431
+62,Gods of Egypt,2/26/2016 0:00:00,Lionsgate,Adventure,PG-13,31153464,3695547
+63,"Hail, Caesar!",2/5/2016 0:00:00,Universal,Comedy,PG-13,30080225,3568235
+64,Zoolander 2,2/12/2016 0:00:00,Paramount Pictures,Comedy,PG-13,28848693,3422146
+65,"Hello, My Name is Doris",3/11/2016 0:00:00,Roadside Attractions,Drama,R,28751693,3410639
+66,The Finest Hours,1/29/2016 0:00:00,Walt Disney,Thriller/Suspense,PG,27569558,3270410
+67,When the Bough Breaks,9/9/2016 0:00:00,Sony Pictures,Thriller/Suspense,PG-13,27174721,3223573
+68,Florence Foster Jenkins,8/12/2016 0:00:00,Paramount Pictures,Drama,PG-13,27029593,3206357
+69,The Forest,1/8/2016 0:00:00,Focus / Gramercy,Thriller/Suspense,PG-13,26594261,3154716
+70,Ben-Hur,8/19/2016 0:00:00,Paramount Pictures,Drama,PG-13,26318800,3122040
+71,Hell or High Water,8/12/2016 0:00:00,Lionsgate,Thriller/Suspense,R,25162491,2984874
+72,Sisters,12/18/2015 0:00:00,Universal,Comedy,R,25160535,2984642
+73,The Witch,2/19/2016 0:00:00,A24,Horror,R,25138705,2982052
+74,The Hateful Eight,12/25/2015 0:00:00,Weinstein Co.,Western,R,25071561,2974087
+75,Storks,9/23/2016 0:00:00,Warner Bros.,Adventure,PG,24310981,2883864
+76,Whiskey Tango Foxtrot,3/4/2016 0:00:00,Paramount Pictures,Comedy,R,23083334,2738236
+77,Mechanic: Resurrection,8/26/2016 0:00:00,Lionsgate,Action,R,20825396,2470390
+78,Free State of Jones,6/24/2016 0:00:00,STX Entertainment,Drama,R,20810036,2468568
+79,God’s Not Dead 2,4/1/2016 0:00:00,Pure Flix Entertainment,Drama,PG,20773069,2464183
+80,Keanu,4/29/2016 0:00:00,Warner Bros.,Comedy,R,20591853,2442687
+81,Nine Lives,8/5/2016 0:00:00,EuropaCorp,Comedy,PG,19402408,2301590
+82,Race,2/19/2016 0:00:00,Focus Features,Drama,PG-13,19115191,2267519
+83,The Choice,2/5/2016 0:00:00,Lionsgate,Drama,PG-13,18730891,2221932
+84,Eye in the Sky,3/11/2016 0:00:00,Bleecker Street,Thriller/Suspense,R,18704596,2218813
+85,Alvin and the Chipmunks: The Road Chip,12/18/2015 0:00:00,20th Century Fox,Adventure,PG,18240037,2163705
+86,Bridget Jones’s Baby,9/16/2016 0:00:00,Universal,Romantic Comedy,R,18191215,2157913
+87,Spotlight,11/6/2015 0:00:00,Open Road,Drama,R,17946804,2128920
+88,Joy,12/25/2015 0:00:00,20th Century Fox,Drama,PG-13,17930167,2126947
+89,Brooklyn,11/4/2015 0:00:00,Fox Searchlight,Drama,PG-13,17509890,2077092
+90,Blair Witch,9/16/2016 0:00:00,Lionsgate,Horror,R,17295724,2051687
+91,Norm of the North,1/15/2016 0:00:00,Lionsgate,Adventure,PG,17062499,2024021
+92,Snowden,9/16/2016 0:00:00,Open Road,Drama,R,16356850,1940314
+93,Eddie the Eagle,2/26/2016 0:00:00,20th Century Fox,Drama,PG-13,15789389,1872999
+94,The Infiltrator,7/13/2016 0:00:00,Broad Green Pictures,Thriller/Suspense,R,15425870,1829877
+95,Criminal,4/15/2016 0:00:00,Lionsgate,Action,R,14708696,1744803
+96,Love & Friendship,5/13/2016 0:00:00,Roadside Attractions,Drama,PG,14016568,1662700
+97,Hillary’s America: The Secret History of the Democratic Party,7/15/2016 0:00:00,Quality Flix,Documentary,PG-13,13086824,1552410
+98,Triple 9,2/26/2016 0:00:00,Open Road,Thriller/Suspense,R,12639297,1499323
+99,The Light Between Oceans,9/2/2016 0:00:00,Walt Disney,Drama,PG-13,12085404,1433618
+100,Fifty Shades of Black,1/29/2016 0:00:00,Open Road,Comedy,R,11686940,1386351
+101,Café Society,7/15/2016 0:00:00,Lionsgate,Drama,PG-13,11023594,1307662
+102,Pride and Prejudice and Zombies,2/5/2016 0:00:00,Sony Pictures,Black Comedy,PG-13,10907291,1293866
+103,The Darkness,5/13/2016 0:00:00,High Top Releasing,Horror,PG-13,10753574,1275631
+104,No Manches Frida,9/2/2016 0:00:00,Lionsgate,Comedy,PG-13,10478180,1242963
+105,The Lady in the Van,1/15/2016 0:00:00,Sony Pictures Classics,Drama,PG-13,10021175,1188751
+106,Room,10/16/2015 0:00:00,A24,Drama,R,9700702,1150735
+107,The Perfect Match,3/11/2016 0:00:00,Lionsgate,Romantic Comedy,R,9669521,1147036
+108,Popstar: Never Stop Never Stopping,6/3/2016 0:00:00,Universal,Comedy,R,9496130,1126468
+109,Concussion,12/25/2015 0:00:00,Sony Pictures,Drama,PG-13,9265182,1099072
+110,Hardcore Henry,4/8/2016 0:00:00,STX Entertainment,Action,R,9252038,1097513
+111,The Lobster,5/13/2016 0:00:00,A24,Romantic Comedy,R,9196278,1090898
+112,Meet the Blacks,4/1/2016 0:00:00,Freestyle Releasing,Comedy,R,9097072,1079130
+113,Ratchet and Clank,4/29/2016 0:00:00,Focus Features,Adventure,PG,8813410,1045481
+114,The Good Dinosaur,11/25/2015 0:00:00,Walt Disney,Adventure,PG,8320188,986973
+115,The Wild Life,9/9/2016 0:00:00,Lionsgate,Adventure,PG,7780212,922919
+116,Carol,11/20/2015 0:00:00,Weinstein Co.,Drama,R,7729016,916846
+117,The Hunger Games: Mockingjay - Part 2,11/20/2015 0:00:00,Lionsgate,Thriller/Suspense,PG-13,7538507,894247
+118,The Brothers Grimsby,3/11/2016 0:00:00,Sony Pictures,Comedy,R,6864016,814236
+119,Creed,11/25/2015 0:00:00,Warner Bros.,Drama,PG-13,6645310,788293
+120,The Young Messiah,3/11/2016 0:00:00,Focus Features,Drama,PG-13,6469813,767474
+121,Point Break,12/25/2015 0:00:00,Warner Bros.,Action,PG-13,6380305,756857
+122,Southside with You,8/26/2016 0:00:00,Roadside Attractions,Drama,PG-13,6248086,741172
+123,A Beautiful Planet,4/29/2016 0:00:00,Walt Disney,Documentary,G,6042798,716820
+124,Captain Fantastic,7/8/2016 0:00:00,Bleecker Street,Drama,R,5703239,676540
+125,Sultan,7/6/2016 0:00:00,Yash Raj Films,Action,Not Rated,5599781,664268
+126,The Danish Girl,11/27/2015 0:00:00,Focus Features,Drama,R,5063669,600672
+127,Hunt for the Wilderpeople,6/24/2016 0:00:00,The Orchard,Comedy,PG-13,5010744,594394
+128,Absolutely Fabulous: The Movie,7/22/2016 0:00:00,Fox Searchlight,Comedy,R,4761241,564797
+129,Hands of Stone,8/26/2016 0:00:00,Weinstein Co.,Drama,R,4683412,555564
+130,The Meddler,4/22/2016 0:00:00,Sony Pictures Classics,Comedy,PG-13,4267219,506194
+131,A Hologram for the King,4/22/2016 0:00:00,Roadside Attractions,Drama,R,4212494,499702
+132,Swiss Army Man,6/24/2016 0:00:00,A24,Drama,R,4208879,499273
+133,45 Years,12/23/2015 0:00:00,IFC Films,Drama,R,4021334,477026
+134,Don’t Think Twice,7/22/2016 0:00:00,Film Arcade,Comedy,R,4000344,474536
+135,Kabali,7/21/2016 0:00:00,Cinegalaxy,Action,Not Rated,3903095,463000
+136,Morgan,9/2/2016 0:00:00,20th Century Fox,Thriller/Suspense,R,3896446,462211
+137,The Man Who Knew Infinity,4/29/2016 0:00:00,IFC Films,Drama,PG-13,3875860,459769
+138,Where to Invade Next,12/23/2015 0:00:00,Drafthouse Films,Documentary,R,3827261,454004
+139,Batman: The Killing Joke,7/25/2016 0:00:00,Fathom Events,Action,R,3775000,447805
+140,Midnight Special,3/18/2016 0:00:00,Warner Bros.,Drama,PG-13,3712282,440365
+141,Anomalisa,12/30/2015 0:00:00,Paramount Pictures,Comedy,R,3548654,420955
+142,Everybody Wants Some,3/30/2016 0:00:00,Paramount Pictures,Comedy,R,3400278,403354
+143,Maggie's Plan,5/20/2016 0:00:00,Sony Pictures Classics,Comedy,R,3351230,397536
+144,Indignation,7/29/2016 0:00:00,Roadside Attractions,Drama,R,3308735,392495
+145,Sing Street,4/15/2016 0:00:00,Weinstein Co.,Musical,PG-13,3237118,383999
+146,The Mermaid,2/19/2016 0:00:00,Sony Pictures,Romantic Comedy,R,3229457,383090
+147,Green Room,4/15/2016 0:00:00,A24,Horror,R,3220371,382013
+148,Our Kind of Traitor,7/1/2016 0:00:00,Roadside Attractions,Thriller/Suspense,R,3153157,374039
+149,Compadres,4/22/2016 0:00:00,Lionsgate,Comedy,R,3127773,371028
+150,The Other Side of the Door,3/4/2016 0:00:00,20th Century Fox,Horror,R,3000342,355912
+151,Anthropoid,8/12/2016 0:00:00,Bleecker Street,Thriller/Suspense,R,2963630,351557
+152,2016 Oscar Shorts,1/29/2016 0:00:00,ShortsHD,Multiple Genres,Not Rated,2816816,334141
+153,Ip Man 3,1/22/2016 0:00:00,Well Go USA,Action,PG-13,2679437,317845
+154,Miles Ahead,4/1/2016 0:00:00,Sony Pictures Classics,Drama,R,2610896,309714
+155,Kapoor & Sons,3/18/2016 0:00:00,FIP,Comedy,Not Rated,2607036,309256
+156,The Martian,10/2/2015 0:00:00,20th Century Fox,Thriller/Suspense,PG-13,2522906,299277
+157,The Disappointments Room,9/9/2016 0:00:00,Relativity,Horror,R,2395049,284110
+158,A Aa,6/1/2016 0:00:00,Bluesky Cinemas,Romantic Comedy,Not Rated,2313043,274382
+159,Spectre,11/6/2015 0:00:00,Sony Pictures,Action,PG-13,2240884,265822
+160,Hillsong: Let Hope Rise,9/16/2016 0:00:00,Pure Flix Entertainment,Documentary,PG,2182776,258929
+161,A Bigger Splash,5/4/2016 0:00:00,Fox Searchlight,Drama,R,2024099,240106
+162,Train to Busan,7/22/2016 0:00:00,Well Go USA,Horror,Not Rated,2000456,237302
+163,Demolition,4/8/2016 0:00:00,Fox Searchlight,Drama,R,1978592,234708
+164,Greater,8/26/2016 0:00:00,Hammond Entertainment,Drama,PG,1800829,213621
+165,The Met: Live in HD - Manon Lescaut,3/5/2016 0:00:00,,Concert/Performance,Not Rated,1770000,209964
+166,Busco Novio Para Mi Mujer,2/19/2016 0:00:00,Lionsgate,Romantic Comedy,PG-13,1741889,206629
+167,Bridge of Spies,10/16/2015 0:00:00,Walt Disney,Thriller/Suspense,PG-13,1703601,202087
+168,The Met: Live in HD - Madama Butterfly,4/2/2016 0:00:00,Fathom Events,Concert/Performance,Not Rated,1700900,201767
+169,Fan,4/15/2016 0:00:00,Yash Raj Films,Thriller/Suspense,Not Rated,1689879,200460
+170,Weiner,5/20/2016 0:00:00,Sundance Selects,Documentary,R,1675196,198718
+171,I Saw the Light,3/25/2016 0:00:00,Sony Pictures Classics,Drama,R,1646788,195348
+172,Son of Saul,12/18/2015 0:00:00,Sony Pictures Classics,Drama,R,1618509,191993
+173,Neerja,2/19/2016 0:00:00,Fox International,Drama,Not Rated,1585687,188100
+174,Equity,7/29/2016 0:00:00,Sony Pictures Classics,Drama,R,1535338,182127
+175,Jane Got a Gun,1/29/2016 0:00:00,Weinstein Co.,Western,R,1513793,179572
+176,"The Beatles: Eight Days a Week, The Working Years",9/16/2016 0:00:00,Abramorama Films,Documentary,Not Rated,1468574,174208
+177,The Peanuts Movie,11/6/2015 0:00:00,20th Century Fox,Comedy,G,1415353,167894
+178,Genius,6/10/2016 0:00:00,Roadside Attractions,Drama,PG-13,1361045,161452
+179,The Neon Demon,6/24/2016 0:00:00,Broad Green Pictures,Horror,R,1333124,158140
+180,Embrace of the Serpent,2/17/2016 0:00:00,Oscilloscope Pictures,Drama,Not Rated,1329249,157680
+181,Housefull 3,6/3/2016 0:00:00,Eros Entertainment,Romantic Comedy,Not Rated,1326999,157413
+182,The Little Prince,2/12/2016 0:00:00,Entertainment One,Adventure,PG,1311213,155541
+183,In the Heart of the Sea,12/11/2015 0:00:00,Warner Bros.,Adventure,PG-13,1270588,150722
+184,Mohenjo Daro,8/12/2016 0:00:00,UTV Communications,Action,Not Rated,1264339,149980
+185,Lazer Team,1/27/2016 0:00:00,Rooster Teeth,Comedy,PG-13,1186426,140738
+186,Vaxxed: From Cover Up to Catastrophe,4/1/2016 0:00:00,Cinema Libre,Documentary,Not Rated,1163265,137991
+187,The Music of Strangers: Yo Yo Man and the Silk Road Ensemble,6/10/2016 0:00:00,The Orchard,Documentary,PG-13,1161574,137790
+188,Dough,2/12/2016 0:00:00,Menemsha Entertainment,Comedy,Not Rated,1148304,136216
+189,Papa: Hemingway in Cuba,4/29/2016 0:00:00,Yari Film Group Releasing,Drama,R,1115615,132338
+190,Elvis & Nixon,4/22/2016 0:00:00,Bleecker Street & Amazon Studios,Drama,R,1055284,125181
+191,The Innocents,7/1/2016 0:00:00,Music Box Films,Drama,PG-13,1054253,125059
+192,Youth,12/4/2015 0:00:00,Fox Searchlight,Drama,R,1052982,124908
+193,Operation Chromite,8/5/2016 0:00:00,CJ Entertainment,Action,Not Rated,1022720,121319
+194,Hotel Transylvania 2,9/25/2015 0:00:00,Sony Pictures,Comedy,PG,925766,109818
+195,Dark Horse,5/6/2016 0:00:00,Sony Pictures Classics,Documentary,PG,906330,107512
+196,Gentleman,6/17/2016 0:00:00,Gaatri Media,Thriller/Suspense,Not Rated,897876,106509
+197,Rustom,8/12/2016 0:00:00,Independent Indian,Drama,Not Rated,880000,104389
+198,Hubble 3D,3/19/2010 0:00:00,Warner Bros.,Documentary,G,876307,103951
+199,Ki & Ka,4/1/2016 0:00:00,Eros Entertainment,Comedy,Not Rated,857986,101777
+200,Trumbo,11/6/2015 0:00:00,Bleecker Street,Drama,R,842513,99942
+201,Dishoom,7/29/2016 0:00:00,Eros Entertainment,Action,Not Rated,812737,96410
+202,The Wailing,5/20/2016 0:00:00,Well Go USA,Thriller/Suspense,Not Rated,786397,93285
+203,Chongqing Hot Pot,4/1/2016 0:00:00,China Lion Film Distribution,Comedy,Not Rated,776649,92129
+204,Born to Be Blue,3/4/2016 0:00:00,IFC Films,Drama,R,755153,89579
+205,Monkey King 2,2/5/2016 0:00:00,China Lion Film Distribution,Action,Not Rated,709982,84220
+206,Bajirao Mastani,12/18/2015 0:00:00,Eros Entertainment,Drama,Not Rated,708076,83994
+207,The Hollars,8/26/2016 0:00:00,Sony Pictures Classics,Drama,PG-13,703484,83450
+208,Goosebumps,10/16/2015 0:00:00,Sony Pictures,Horror,PG,699370,82962
+209,Mustang,11/20/2015 0:00:00,Cohen Media Group,Drama,PG-13,659328,78212
+210,Mr. Church,9/16/2016 0:00:00,Cinelou Releasing,Drama,PG-13,634196,75230
+211,Little Men,8/5/2016 0:00:00,Magnolia Pictures,Drama,PG,619491,73486
+212,The Bronze,3/18/2016 0:00:00,Sony Pictures Classics,Black Comedy,R,615816,73050
+213,Tickled,6/17/2016 0:00:00,Magnolia Pictures,Documentary,R,612816,72694
+214,Baar Baar Dekho,9/9/2016 0:00:00,Eros Entertainment,Drama,Not Rated,612363,72640
+215,City of Gold,3/11/2016 0:00:00,IFC Films,Documentary,R,608799,72218
+216,Wazir,1/8/2016 0:00:00,Reliance Entertainment,Thriller/Suspense,Not Rated,586028,69516
+217,Gleason,7/29/2016 0:00:00,Open Road,Documentary,R,583664,69236
+218,Range 15,6/15/2016 0:00:00,Tugg,Comedy,Not Rated,575258,68239
+219,Saturday's Warrior,4/1/2016 0:00:00,Purdie Distribution,Musical,PG,569120,67511
+220,Tunnel,8/26/2016 0:00:00,Well Go USA,Drama,Not Rated,568691,67460
+221,Knight of Cups,3/4/2016 0:00:00,Broad Green Pictures,Drama,R,566006,67141
+222,Cold War 2,7/8/2016 0:00:00,Well Go USA,Action,Not Rated,560824,66527
+223,A Tale of Love and Darkness,8/19/2016 0:00:00,Focus World,Drama,PG-13,559188,66333
+224,"Lo And Behold, Reveries Of The Connected World",8/19/2016 0:00:00,Magnolia Pictures,Documentary,PG-13,556947,66067
+225,Fitoor,2/12/2016 0:00:00,UTV Communications,Drama,Not Rated,528799,62728
+226,The First Monday in May,4/15/2016 0:00:00,Magnolia Pictures,Documentary,PG-13,527474,62571
+227,Unsullied,8/28/2015 0:00:00,,Thriller/Suspense,R,510957,60611
+228,Marguerite,3/11/2016 0:00:00,Cohen Media Group,Drama,R,497323,58994
+229,The Boy and the Beast,3/4/2016 0:00:00,FUNimation,Adventure,PG-13,490643,58202
+230,Born to be Wild 3D,4/8/2011 0:00:00,Warner Bros.,Documentary,G,486450,57704
+231,Wiener-Dog,6/24/2016 0:00:00,Sundance Selects,Comedy,R,470575,55821
+232,Detective Chinatown,1/15/2016 0:00:00,China Lion Film Distribution,Action,Not Rated,459832,54547
+233,Galapagos,10/29/1999 0:00:00,IMAX Films,Documentary,Not Rated,455067,53981
+234,Only Yesterday,1/1/2016 0:00:00,GKIDS,Drama,PG,453241,53765
+235,Krampus,12/4/2015 0:00:00,Universal,Black Comedy,PG-13,447745,53113
+236,The Himalayas,12/18/2015 0:00:00,CJ Entertainment,Adventure,Not Rated,439816,52172
+237,Baaghi,4/29/2016 0:00:00,UTV Communications,Romantic Comedy,Not Rated,438207,51981
+238,Our Little Sister,7/8/2016 0:00:00,Sony Pictures Classics,Drama,PG,427976,50768
+239,The Queen of Katwe,9/23/2016 0:00:00,Walt Disney,Drama,PG,376231,44630
+240,Happy Bhaag Jayegi,8/19/2016 0:00:00,Eros Entertainment,Romantic Comedy,Not Rated,351840,41736
+241,Eat That Question: Frank Zappa in His Own Words,6/24/2016 0:00:00,Sony Pictures Classics,Documentary,R,348457,41335
+242,High-Rise,5/13/2016 0:00:00,Magnolia Pictures,Thriller/Suspense,R,346472,41099
+243,Mr. Six,12/24/2015 0:00:00,China Lion Film Distribution,Action,Not Rated,343990,40805
+244,Te3n,6/10/2016 0:00:00,Reliance Entertainment,Thriller/Suspense,Not Rated,331507,39324
+245,AmeriGeddon,5/13/2016 0:00:00,,Action,PG-13,316554,37550
+246,Francofonia,4/1/2016 0:00:00,Music Box Films,Drama,Not Rated,307040,36422
+247,April and the Extraordinary World,3/25/2016 0:00:00,GKIDS,Adventure,PG,295488,35051
+248,The People vs Fritz Bauer,8/19/2016 0:00:00,Cohen Media Group,Drama,R,277636,32934
+249,Under the Sea 3D,2/13/2009 0:00:00,Warner Bros.,Documentary,G,272369,32309
+250,Final Fantasy XV: Kingsglaive,8/19/2016 0:00:00,Stage 6 Films,Adventure,PG-13,269980,32026
+251,My Golden Days,3/18/2016 0:00:00,Magnolia Pictures,Comedy,R,269144,31926
+252,The Family Fang,4/29/2016 0:00:00,Starz Media,Comedy,R,262921,31188
+253,Mimimalism: A Documentary About the Important Things,5/24/2016 0:00:00,Asymmetrical,Documentary,Not Rated,261865,31063
+254,Mia madre,8/26/2016 0:00:00,Music Box Films,Drama,R,249749,29626
+255,Dheepan,5/6/2016 0:00:00,Sundance Selects,Drama,R,248392,29465
+256,"Life, Animated",7/1/2016 0:00:00,The Orchard,Documentary,PG,244031,28947
+257,The Invitation,4/8/2016 0:00:00,Drafthouse Films,Thriller/Suspense,Not Rated,231738,27489
+258,Naam Hai Akira,9/2/2016 0:00:00,FIP,Thriller/Suspense,Not Rated,219401,26026
+259,Jimmy Vestvood: Amerikan Hero,5/13/2016 0:00:00,,Comedy,Not Rated,215934,25614
+260,Ho Mann Jahaan,1/1/2016 0:00:00,Eros Entertainment,Musical,Not Rated,208611,24746
+261,Southbound,2/5/2016 0:00:00,The Orchard,Horror,R,205048,24323
+262,Macbeth,12/4/2015 0:00:00,Weinstein Co.,Drama,R,204194,24222
+263,Kaptaan,5/20/2016 0:00:00,UTV Communications,Documentary,Not Rated,203790,24174
+264,El Clan,3/18/2016 0:00:00,20th Century Fox,Drama,R,201227,23870
+265,Island of Lemurs: Madagascar,4/4/2014 0:00:00,Warner Bros.,Documentary,G,191849,22757
+266,The Dressmaker,9/23/2016 0:00:00,Broad Green Pictures,Drama,R,185165,21965
+267,Ixcanul,8/19/2016 0:00:00,Kino Lorber,Drama,Not Rated,184630,21901
+268,The Masked Saint,1/8/2016 0:00:00,Freestyle Releasing,Action,PG-13,182695,21672
+269,Viva,4/29/2016 0:00:00,Magnolia Pictures,Drama,R,178008,21116
+270,The Wave,3/4/2016 0:00:00,Magnolia Pictures,Action,R,177404,21044
+271,Complete Unknown,8/26/2016 0:00:00,IFC Films,Drama,R,176827,20975
+272,Dilwale,12/18/2015 0:00:00,UTV Communications,Romantic Comedy,Not Rated,166631,19766
+273,The Fits,6/3/2016 0:00:00,Oscilloscope Pictures,Drama,Not Rated,166425,19741
+274,De Palma,6/10/2016 0:00:00,A24,Documentary,R,165237,19601
+275,Louder Than Bombs,4/8/2016 0:00:00,The Orchard,Drama,R,163808,19431
+276,Sunset Song,5/13/2016 0:00:00,Magnolia Pictures,Drama,R,159714,18945
+277,The Witness,6/3/2016 0:00:00,FilmRise,Documentary,Not Rated,156821,18602
+278,Howards End,3/13/1992 0:00:00,Sony Pictures Classics,Drama,PG,155923,18496
+279,White Girl,9/2/2016 0:00:00,FilmRise,Drama,Not Rated,153520,18211
+280,Kicks,9/9/2016 0:00:00,Focus World,Adventure,R,149447,17727
+281,Rams,2/3/2016 0:00:00,Cohen Media Group,Drama,R,149250,17704
+282,Touched With Fire,2/12/2016 0:00:00,Roadside Attractions,Drama,R,146487,17376
+283,Krisha,3/18/2016 0:00:00,A24,Drama,R,144822,17179
+284,League of Gods,7/29/2016 0:00:00,Sony Pictures,Action,PG-13,143430,17014
+285,Janis: Little Girl Blue,11/27/2015 0:00:00,FilmRise,Documentary,Not Rated,141679,16806
+286,The Kind Words,6/24/2016 0:00:00,Strand,Drama,Not Rated,135382,16059
+287,Tumbledown,2/12/2016 0:00:00,Starz Digital Media,Romantic Comedy,R,135026,16017
+288,Chimes at Midnight,1/1/2016 0:00:00,Janus Films,Comedy,Not Rated,126724,15032
+289,Sweet Bean,3/18/2016 0:00:00,Kino Lorber,Drama,Not Rated,124800,14804
+290,Spirits’ Homecoming,3/25/2016 0:00:00,Pan Media & Entertainment,Drama,Not Rated,123704,14674
+291,A War,2/12/2016 0:00:00,Magnolia Pictures,Drama,R,122902,14579
+292,Eva Hesse,4/27/2016 0:00:00,Zeitgeist,Documentary,Not Rated,122009,14473
+293,Mojin: The Lost Legend,12/18/2015 0:00:00,China Lion Film Distribution,Adventure,Not Rated,121914,14461
+294,Hockney,4/22/2016 0:00:00,Film Movement,Documentary,Not Rated,120745,14323
+295,Three,6/24/2016 0:00:00,Well Go USA,Thriller/Suspense,Not Rated,119550,14181
+296,Theeb,11/6/2015 0:00:00,Film Movement,Adventure,Not Rated,118320,14035
+297,Caged No More,1/22/2016 0:00:00,Freestyle Releasing,Thriller/Suspense,PG-13,114959,13636
+298,"Hieronymus Bosch, Touched by the Devil",7/27/2016 0:00:00,Kino Lorber,Documentary,Not Rated,113301,13440
+299,The Measure of a Man,4/15/2016 0:00:00,Kino Lorber,Drama,Not Rated,112391,13332
+300,The Boy and the World,12/11/2015 0:00:00,GKIDS,Adventure,PG,111899,13273
+301,Miss Sharon Jones,7/29/2016 0:00:00,Starz Media,Documentary,Not Rated,110269,13080
+302,Zero Days,7/8/2016 0:00:00,Magnolia Pictures,Documentary,PG-13,109649,13006
+303,Requiem For the American Dream,1/29/2016 0:00:00,Gravitas Ventures,Documentary,Not Rated,109476,12986
+304,Love the Coopers,11/13/2015 0:00:00,CBS Films,Comedy,PG-13,108974,12926
+305,Aferim!,1/22/2016 0:00:00,Big World Pictures,Black Comedy,Not Rated,108110,12824
+306,Against the Wild: Survive the Serengeti,2/26/2016 0:00:00,Anchor Bay Entertainment,Adventure,PG,107953,12805
+307,Yellow Day,9/19/2014 0:00:00,Self Distributed,Adventure,PG,107325,12731
+308,The 33,11/13/2015 0:00:00,Warner Bros.,Drama,PG-13,105269,12487
+309,Peggy Guggenheim - Art Addict,11/6/2015 0:00:00,Submarine Deluxe,Documentary,Not Rated,104844,12437
+310,Puerto Ricans in Paris,6/10/2016 0:00:00,Focus World,Comedy,R,102890,12205
+311,Tale of Tales,4/22/2016 0:00:00,IFC Films,Drama,R,102186,12121
+312,Our Last Tango,4/15/2016 0:00:00,Strand,Documentary,Not Rated,100086,11872
+313,Hitchcock/Truffaut,12/2/2015 0:00:00,Cohen Media Group,Documentary,PG-13,98108,11637
+314,Heart of a Dog,10/21/2015 0:00:00,Abramorama Films,Documentary,Not Rated,98070,11633
+315,Elevator to the Gallows,6/10/1961 0:00:00,Rialto Pictures,Drama,Not Rated,97489,11564
+316,Seondal: The Man who Sells the River,7/15/2016 0:00:00,CJ Entertainment,Drama,Not Rated,97223,11532
+317,Never Gone,7/15/2016 0:00:00,China Lion Film Distribution,Drama,Not Rated,96421,11437
+318,Ingrid Bergman - In Her Own Words,11/13/2015 0:00:00,Rialto Pictures,Documentary,Not Rated,95341,11309
+319,Remember the Goal,8/26/2016 0:00:00,Five & Two Pictures,Drama,PG,93647,11108
+320,New York New York,4/15/2016 0:00:00,China Lion Film Distribution,Drama,Not Rated,92377,10958
+321,No One’s Life Is Easy: So I Married an Anti-Fan,7/1/2016 0:00:00,China Lion Film Distribution,Romantic Comedy,Not Rated,89408,10605
+322,"My Love, Don't Cross That River",6/17/2016 0:00:00,Film Movement,Documentary,Not Rated,88018,10441
+323,Fireworks Wednesday,3/16/2016 0:00:00,Grasshopper Film,Drama,Not Rated,87793,10414
+324,Decalogue,6/9/2000 0:00:00,New Yorker,Drama,Not Rated,85466,10138
+325,Morris from America,8/19/2016 0:00:00,A24,Drama,R,84260,9995
+326,Los sures,4/15/2016 0:00:00,Oscilloscope Pictures,Documentary,Not Rated,83992,9963
+327,Mountains May Depart,2/12/2016 0:00:00,Kino Lorber,Drama,Not Rated,82913,9835
+328,Vita Activa: The Spirit of Hannah Arendt,4/6/2016 0:00:00,Zeitgeist,Documentary,Not Rated,82143,9744
+329,Under the Sun (2016),7/6/2016 0:00:00,Icarus Films,Documentary,Not Rated,79824,9469
+330,Space Station,4/19/2002 0:00:00,IMAX Films,Documentary,Not Rated,78804,9348
+331,Colliding Dreams,3/4/2016 0:00:00,International Film Circuit,Documentary,Not Rated,78288,9286
+332,Victor,9/15/2016 0:00:00,CanZion Films,Drama,PG-13,77754,9223
+333,My Best Friend’s Wedding,8/12/2016 0:00:00,Sony Pictures,Romantic Comedy,PG,77043,9139
+334,Saala Khadoos,1/29/2016 0:00:00,UTV Communications,Drama,Not Rated,76931,9125
+335,Les Cowboys,6/24/2016 0:00:00,Cohen Media Group,Western,R,73725,8745
+336,Raiders! The Story of the Greatest Fan Film Ever Made,6/17/2016 0:00:00,Drafthouse Films,Documentary,Not Rated,71916,8530
+337,The Congressman,4/29/2016 0:00:00,Shadow,Drama,R,71451,8475
+338,Norman Lear: Just Another Version of You,7/8/2016 0:00:00,Music Box Films,Documentary,Not Rated,70950,8416
+339,Other People,9/9/2016 0:00:00,Self Distributed,Drama,Not Rated,69433,8236
+340,The Messenger,12/4/2015 0:00:00,Alive Mind,Documentary,Not Rated,67816,8044
+341,Phantom Detective,5/13/2016 0:00:00,CJ Entertainment,Action,Not Rated,67054,7954
+342,Author: The JT LeRoy Story,9/9/2016 0:00:00,Magnolia Pictures,Documentary,R,66669,7908
+343,Devil and Angel,12/31/2015 0:00:00,China Lion Film Distribution,Comedy,Not Rated,66588,7898
+344,Em La Ba Noi Cua Anh,3/11/2016 0:00:00,CJ Entertainment,Comedy,Not Rated,65718,7795
+345,Sicario,9/18/2015 0:00:00,Lionsgate,Thriller/Suspense,R,65326,7749
+346,Microbe and Gasoline,7/1/2016 0:00:00,Screen Media Films,Comedy,R,63802,7568
+347,Trapped,3/4/2016 0:00:00,Abramorama Films,Documentary,Not Rated,63240,7501
+348,Creative Control,3/11/2016 0:00:00,Magnolia Pictures,Drama,R,63014,7474
+349,The Dark Horse,4/1/2016 0:00:00,Broad Green Pictures,Drama,R,61505,7295
+350,Don’t Blink: Robert Frank,7/13/2016 0:00:00,Grasshopper Film,Documentary,Not Rated,61148,7253
+351,Secret in Their Eyes,11/20/2015 0:00:00,STX Entertainment,Thriller/Suspense,PG-13,61121,7250
+352,Dancer,9/9/2016 0:00:00,IFC Films,Documentary,Not Rated,61064,7243
+353,Deep Sea 3-D,3/3/2006 0:00:00,Warner Bros.,Documentary,G,60841,7217
+354,Too Late,3/18/2016 0:00:00,Vanishing Angle Films,Drama,Not Rated,60438,7169
+355,Presenting Princess Shaw,5/27/2016 0:00:00,Magnolia Pictures,Documentary,Not Rated,60197,7140
+356,Time Renegades,4/15/2016 0:00:00,CJ Entertainment,Action,Not Rated,58689,6961
+357,The Night Before,11/20/2015 0:00:00,Sony Pictures,Comedy,R,58470,6935
+358,Demon,9/9/2016 0:00:00,The Orchard,Horror,R,56817,6739
+359,Max Rose,9/2/2016 0:00:00,Paladin,Drama,Not Rated,56365,6686
+360,Wedding Doll,4/15/2016 0:00:00,Strand,Drama,Not Rated,56196,6666
+361,DONGJU; The Portrait of A Poet,2/17/2016 0:00:00,,Drama,Not Rated,56184,6664
+362,The Wait,4/29/2016 0:00:00,Oscilloscope Pictures,Drama,Not Rated,55804,6619
+363,Regression,2/5/2016 0:00:00,Weinstein Co.,Thriller/Suspense,R,55039,6528
+364,Clown,6/17/2016 0:00:00,Dimension Pictures,Horror,R,55007,6525
+365,Burnt,10/30/2015 0:00:00,Weinstein Co.,Comedy,R,54991,6523
+366,Le Journal d'une femme de chambre,6/10/2016 0:00:00,Cohen Media Group,Drama,Not Rated,53581,6355
+367,High Strung,4/8/2016 0:00:00,Paladin,Drama,PG,53447,6340
+368,The Intern,9/25/2015 0:00:00,Warner Bros.,Comedy,PG-13,53311,6323
+369,Journey to the South Pacific,11/27/2013 0:00:00,MacGillivray Freeman Films,Documentary,G,52814,6265
+370,The Club,2/5/2016 0:00:00,Music Box Films,Drama,Not Rated,52761,6258
+371,The Last Man on the Moon,2/26/2016 0:00:00,Gravitas Ventures,Documentary,Not Rated,52482,6225
+372,Grandma,8/21/2015 0:00:00,Sony Pictures Classics,Comedy,R,52304,6204
+373,Cemetery of Splendor,3/4/2016 0:00:00,Strand,Drama,Not Rated,51950,6162
+374,Chi-raq,12/4/2015 0:00:00,Amazon Studios/Roadside Attractions,Drama,R,51701,6132
+375,King Georges,2/26/2016 0:00:00,IFC Films,Documentary,Not Rated,51663,6128
+376,Generation Found,8/29/2016 0:00:00,Gathr Films,Documentary,Not Rated,51294,6084
+377,Like for Likes,2/26/2016 0:00:00,CJ Entertainment,Romantic Comedy,Not Rated,50839,6030
+378,The Tenth Man (2016),7/29/2016 0:00:00,Kino Lorber,Comedy,Not Rated,50327,5969
+379,In the Shadow of Women,1/15/2016 0:00:00,Distrib Films,Drama,Not Rated,50291,5965
+380,In Order of Disappearance,8/26/2016 0:00:00,Magnolia Pictures,Action,R,50255,5961
+381,The Daughter,7/1/2016 0:00:00,Mongrel Media,Drama,Not Rated,50079,5940
+382,Pele: Birth of a Legend,5/13/2016 0:00:00,IFC Films,Drama,PG,49979,5928
+383,The Treasure,1/8/2016 0:00:00,IFC Films,Comedy,Not Rated,48508,5754
+384,My King,8/12/2016 0:00:00,Film Movement,Drama,Not Rated,47582,5644
+385,Ma Ma,5/20/2016 0:00:00,Oscilloscope Pictures,Drama,R,47258,5605
+386,Remember,10/16/2015 0:00:00,Entertainment One,Thriller/Suspense,R,45078,5347
+387,Fatima,8/26/2016 0:00:00,Kino Lorber,Drama,Not Rated,45050,5344
+388,To the Arctic 3D,4/20/2012 0:00:00,Warner Bros.,Documentary,G,44727,5305
+389,The Land,7/29/2016 0:00:00,IFC Films,Drama,R,43756,5190
+390,Nuts!,6/22/2016 0:00:00,Life Sentence Films/m Tuckman Media,Documentary,Not Rated,43616,5173
+391,Mastizaade,1/29/2016 0:00:00,Eros Entertainment,Comedy,Not Rated,43403,5148
+392,Disorder,8/12/2016 0:00:00,IFC Films,Thriller/Suspense,Not Rated,42956,5095
+393,A Melody to Remember,1/29/2016 0:00:00,CJ Entertainment,Drama,Not Rated,41845,4963
+394,Wild Oats,9/16/2016 0:00:00,Weinstein Co.,Comedy,PG-13,40598,4815
+395,Cameraperson,9/9/2016 0:00:00,Janus Films,Documentary,Not Rated,38674,4587
+396,Catching the Sun,4/1/2016 0:00:00,The Film Collaborative,Documentary,Not Rated,38613,4580
+397,Germans and Jews,6/10/2016 0:00:00,First Run Features,Documentary,Not Rated,38100,4519
+398,Restored Me,6/6/2016 0:00:00,Gathr Films,Drama,Not Rated,36633,4345
+399,Maze Runner: The Scorch Trials,9/18/2015 0:00:00,20th Century Fox,Thriller/Suspense,PG-13,36599,4341
+400,How to Let Go of the World and Love All The Things Climate Can”t Change,4/20/2016 0:00:00,International WOW,Documentary,Not Rated,36386,4316
+401,Until Forever,2/12/2016 0:00:00,Linn Productions,Drama,Not Rated,35839,4251
+402,Cock and Bull,9/16/2016 0:00:00,China Lion Film Distribution,,Not Rated,35000,4151
+403,Spa Night,8/19/2016 0:00:00,Strand,Drama,Not Rated,34960,4147
+404,Songs My Brothers Taught Me,3/2/2016 0:00:00,Kino Lorber,Drama,Not Rated,34793,4127
+405,Summertime,7/22/2016 0:00:00,Strand,Drama,Not Rated,34726,4119
+406,Mr. Right,4/8/2016 0:00:00,Focus World,Romantic Comedy,R,34694,4115
+407,The Homeless Billionaire,6/17/2016 0:00:00,Hannover House,,Not Rated,34563,4100
+408,Phantom Boy,7/15/2016 0:00:00,GKIDS,Adventure,PG,34361,4076
+409,Eisenstein In Guanajuato,2/5/2016 0:00:00,Strand,Drama,Not Rated,34282,4066
+410,Suffragette,10/23/2015 0:00:00,Focus Features,Drama,PG-13,33817,4011
+411,Come What May,9/9/2016 0:00:00,Cohen Media Group,Drama,R,33367,3958
+412,Equals,7/15/2016 0:00:00,A24,Drama,PG-13,33258,3945
+413,Multiple Maniacs,8/5/2016 0:00:00,Janus Films,Comedy,NC-17,33036,3918
+414,The Intervention,8/26/2016 0:00:00,Samuel Goldwyn Films,Drama,R,32919,3904
+415,The Map Against the World,9/9/2016 0:00:00,CJ Entertainment,Drama,Not Rated,32893,3901
+416,Last Cab to Darwin,6/10/2016 0:00:00,First Run Features,Drama,Not Rated,32873,3899
+417,Monster Hunt,1/22/2016 0:00:00,FilmRise,Adventure,Not Rated,32766,3886
+418,Rio I Love You,4/15/2016 0:00:00,Screen Media Films,Romantic Comedy,R,31982,3793
+419,Sweet Sixteen,8/17/2016 0:00:00,China Lion Film Distribution,Drama,Not Rated,31538,3741
+420,River of Fundament,12/4/2015 0:00:00,International Film Circuit,Drama,Not Rated,30859,3660
+421,Labyrinth of Lies,9/30/2015 0:00:00,Sony Pictures Classics,Drama,R,30716,3643
+422,Jafar Panahi’s Taxi,10/2/2015 0:00:00,Kino Lorber,Documentary,Not Rated,30554,3624
+423,Being Charlie,5/6/2016 0:00:00,Paladin,Drama,R,30400,3606
+424,Men & Chicken,4/22/2016 0:00:00,Drafthouse Films,Black Comedy,Not Rated,30207,3583
+425,From Afar,6/8/2016 0:00:00,Strand,Drama,Not Rated,30169,3578
+426,For a Few Bullets,7/22/2016 0:00:00,China Lion Film Distribution,Western,Not Rated,30142,3575
+427,Therapy For A Vampire,6/10/2016 0:00:00,Music Box Films,Comedy,Not Rated,30115,3572
+428,Troublemakers: The Story of Land Art,1/8/2016 0:00:00,First Run Features,Documentary,Not Rated,29462,3494
+429,The Unknowns,5/23/2016 0:00:00,Gathr Films,Documentary,Not Rated,29284,3473
+430,3 Weeks in Yerevan,9/16/2016 0:00:00,Richmond Media Entertainment,,Not Rated,29245,3469
+431,Time to Choose,6/3/2016 0:00:00,Abramorama Films,Documentary,Not Rated,29233,3467
+432,Valley of Love,3/25/2016 0:00:00,Strand,Drama,Not Rated,28648,3398
+433,"Look At Us Now, Mother!",4/11/2015 0:00:00,,,Not Rated,28463,3376
+434,"Rabin, The Last Day",1/29/2016 0:00:00,Kino Lorber,Drama,Not Rated,28411,3370
+435,The Night,9/14/2016 0:00:00,Rialto Pictures,Drama,Not Rated,28339,3361
+436,Bikes vs Cars,12/4/2015 0:00:00,Kino Lorber,Documentary,Not Rated,28072,3330
+437,Take Me to the River,3/18/2016 0:00:00,Film Movement,Drama,Not Rated,28041,3326
+438,"Rabin, in His Own Words",5/6/2016 0:00:00,Menemsha Entertainment,Documentary,Not Rated,27941,3314
+439,The Seventh Fire,7/22/2016 0:00:00,Film Movement,Documentary,Not Rated,27120,3217
+440,Blackway,6/10/2016 0:00:00,Electric Entertainment,Thriller/Suspense,R,27079,3212
+441,Unlocking the Cage,5/25/2016 0:00:00,First Run Features,Documentary,Not Rated,26950,3196
+442,Anesthesia,1/8/2016 0:00:00,IFC Films,Drama,R,26799,3179
+443,Neon Bull,4/8/2016 0:00:00,Kino Lorber,Drama,Not Rated,26755,3173
+444,Standing Tall,3/11/2016 0:00:00,Cohen Media Group,Drama,R,26144,3101
+445,Cosmos,6/17/2016 0:00:00,Kino Lorber,Drama,Not Rated,25856,3067
+446,The Dog Wedding,3/11/2016 0:00:00,25th Frame,Romantic Comedy,PG-13,25855,3067
+447,The Last Princess,9/9/2016 0:00:00,CJ Entertainment,Drama,Not Rated,25753,3054
+448,Chevalier,6/30/2015 0:00:00,Strand,Comedy,Not Rated,25696,3048
+449,The New Year's Eve of Old Lee,2/12/2016 0:00:00,China Lion Film Distribution,Comedy,Not Rated,25358,3008
+450,Sold,4/1/2016 0:00:00,Matson,Drama,PG-13,25223,2992
+451,A Monster with a Thousand Heads,5/13/2016 0:00:00,Music Box Films,Thriller/Suspense,Not Rated,24852,2948
+452,Paths of the Soul,5/13/2016 0:00:00,Icarus Films,Educational,Not Rated,24666,2925
+453,Truth,10/16/2015 0:00:00,Sony Pictures Classics,Thriller/Suspense,R,24609,2919
+454,Sudden Fear,8/12/2016 0:00:00,Cohen Media Group,Thriller/Suspense,Not Rated,24476,2903
+455,Front Cover,8/5/2016 0:00:00,Strand,Drama,Not Rated,24310,2883
+456,Lolo,3/11/2016 0:00:00,FilmRise,Romantic Comedy,Not Rated,24134,2862
+457,No Home Movie,4/1/2016 0:00:00,Icarus Films,Documentary,Not Rated,24132,2862
+458,Kaili Blues,5/20/2016 0:00:00,Grasshopper Film,,Not Rated,23722,2813
+459,Project Itoh - Harmony,5/20/2016 0:00:00,FUNimation,Action,Not Rated,23248,2757
+460,Angry Indian Goddess,8/5/2016 0:00:00,Mongrel Media,Comedy,Not Rated,23192,2751
+461,Is That a Gun in Your Pocket?,9/16/2016 0:00:00,Area 23a,Comedy,R,22330,2648
+462,Sanam Teri Kasam,2/5/2016 0:00:00,Eros Entertainment,Drama,Not Rated,22121,2624
+463,The Winding Steam,12/16/2015 0:00:00,Argot Pictures,Documentary,Not Rated,21683,2572
+464,Term Life,4/29/2016 0:00:00,Focus World,Drama,R,21256,2521
+465,"Right Now, Wrong Then",6/24/2016 0:00:00,Grasshopper Film,Romantic Comedy,Not Rated,21220,2517
+466,Almost Holy,5/20/2016 0:00:00,The Orchard,Documentary,R,21142,2507
+467,Band of Robbers,1/15/2016 0:00:00,Gravitas Ventures,Adventure,Not Rated,20555,2438
+468,Sea of Trees,8/26/2016 0:00:00,A24,Drama,PG-13,20444,2425
+469,"Kill Me, Deadly",4/1/2016 0:00:00,Indican Pictures,Multiple Genres,Not Rated,19960,2367
+470,Art Bastard,6/3/2016 0:00:00,CAVU Releasing,Documentary,Not Rated,19600,2325
+471,Revelation: Dawn of Global Government,4/15/2016 0:00:00,Rocky Mountain Pictures,Documentary,PG,19107,2266
+472,Command and Control,9/14/2016 0:00:00,American Experience Films,Documentary,Not Rated,18976,2251
+473,Ktown Cowboys,3/18/2016 0:00:00,Freestyle Releasing,Documentary,R,18863,2237
+474,Kamikaze 89,6/3/2016 0:00:00,Film Movement,Thriller/Suspense,Not Rated,18710,2219
+475,Seoul Searching,6/17/2016 0:00:00,Mondo Paradiso Films,Comedy,Not Rated,18654,2212
+476,In Jackson Heights,11/4/2015 0:00:00,Zipporah,Documentary,Not Rated,18619,2208
+477,Holy Hell,5/27/2016 0:00:00,WRA Productions LLC,Documentary,Not Rated,18051,2141
+478,I Knew Her Well,2/5/2016 0:00:00,Janus Films,Documentary,Not Rated,18010,2136
+479,Kate Plays Christine,8/26/2016 0:00:00,Grasshopper Film,Documentary,Not Rated,17972,2131
+480,Men go to Battle,7/8/2016 0:00:00,Film Movement,Drama,Not Rated,17950,2129
+481,How He Fell in Love,7/8/2016 0:00:00,Monument Releasing,Drama,Not Rated,17575,2084
+482,Streit's: Matzo and the American Dream,4/20/2016 0:00:00,Menemsha Entertainment,Documentary,Not Rated,17506,2076
+483,Sembene!,11/13/2015 0:00:00,Kino Lorber,Documentary,Not Rated,17114,2030
+484,The Seasons in Quincy: Four Portraits of John Berger,8/31/2016 0:00:00,Icarus Films,Documentary,Not Rated,16738,1985
+485,Colonia,4/15/2016 0:00:00,Screen Media Films,Thriller/Suspense,R,15709,1863
+486,Entertainment,11/13/2015 0:00:00,Magnolia Pictures,Drama,R,15642,1855
+487,Five Nights in Maine,8/5/2016 0:00:00,FilmRise,Drama,Not Rated,15587,1848
+488,Of Mind and Music,2/12/2016 0:00:00,Monterey Media,Drama,PG-13,15083,1789
+489,It’s Already Tomorrow in Hong Kong,2/12/2016 0:00:00,Gravitas Ventures,Romantic Comedy,Not Rated,14966,1775
+490,The Letters,12/4/2015 0:00:00,Freestyle Releasing,Drama,PG,14952,1773
+491,The Lovers And The Despot,9/23/2016 0:00:00,Magnolia Pictures,,Not Rated,14925,1770
+492,Argentina,6/17/2016 0:00:00,First Run Features,Documentary,Not Rated,14869,1763
+493,Lamb,1/8/2016 0:00:00,The Orchard,Drama,R,14547,1725
+494,As I Open My Eyes,9/9/2016 0:00:00,Kino Lorber,Drama,Not Rated,14169,1680
+495,Yosemite,1/1/2016 0:00:00,Monterey Media,Drama,R,13931,1652
+496,A Space Program,3/18/2016 0:00:00,Zeitgeist,Documentary,Not Rated,13739,1629
+497,Woodlawn,10/16/2015 0:00:00,Pure Flix Entertainment,Drama,PG,13498,1601
+498,Tikkun,6/10/2016 0:00:00,Kino Lorber,Drama,Not Rated,13358,1584
+499,Late Spring,3/4/2016 0:00:00,Janus Films,Drama,Not Rated,13254,1572
+500,The Adderall Diaries,4/15/2016 0:00:00,A24,Drama,R,13191,1564
+501,Censored Voices,11/20/2015 0:00:00,Music Box Films,Documentary,Not Rated,13029,1545
+502,City of Women,2/19/2016 0:00:00,Cohen Media Group,Comedy,R,12516,1484
+503,The Ones Below,5/27/2016 0:00:00,Magnolia Pictures,Thriller/Suspense,R,12488,1481
+504,Elstree 1976,5/6/2016 0:00:00,FilmRise,Documentary,Not Rated,12173,1444
+505,Fritz Lang’s Destiny,5/20/2016 0:00:00,Kino Lorber,Thriller/Suspense,Not Rated,12156,1441
+506,Remember You,1/15/2016 0:00:00,CJ Entertainment,,Not Rated,11800,1399
+507,Lucha Mexico,7/15/2016 0:00:00,Kino Lorber,Documentary,Not Rated,11722,1390
+508,Viktoria,4/29/2016 0:00:00,Big World Pictures,Drama,Not Rated,11314,1342
+509,The Black Dove,8/12/2016 0:00:00,Indican Pictures,Comedy,Not Rated,10860,1288
+510,When Two Worlds Collide,8/17/2016 0:00:00,First Run Features,Documentary,Not Rated,10692,1268
+511,A Matter of Faith,10/17/2014 0:00:00,Five & Two Pictures,Drama,PG,10556,1252
+512,Neither Heaven Nor Earth,8/5/2016 0:00:00,Film Movement,Multiple Genres,Not Rated,10512,1246
+513,Serial Killer 1,6/17/2016 0:00:00,Kino Lorber,Drama,Not Rated,10330,1225
+514,Flowers,10/30/2015 0:00:00,Music Box Films,Drama,Not Rated,10330,1225
+515,Approaching the Unknown,6/3/2016 0:00:00,Vertical Entertainment,Drama,R,10232,1213
+516,This Last Lonely Place,8/12/2016 0:00:00,Indican Pictures,Thriller/Suspense,Not Rated,10206,1210
+517,Beta Test,7/22/2016 0:00:00,Mirror Images Ltd,Action,Not Rated,10104,1198
+518,River of Grass,3/11/2016 0:00:00,Oscilloscope Pictures,Drama,Not Rated,10070,1194
+519,Love Me True,8/12/2016 0:00:00,Indican Pictures,Romantic Comedy,Not Rated,10061,1193
+520,Into the Forest,7/29/2016 0:00:00,A24,Drama,R,9995,1185
+521,The Best Democracy Money Can Buy,9/23/2016 0:00:00,Cinema Libre,Documentary,Not Rated,9511,1128
+522,An Eye for Beauty,4/15/2016 0:00:00,Monument Releasing,Drama,Not Rated,9395,1114
+523,Landfill Harmonic,9/9/2016 0:00:00,The Film Collaborative,Documentary,Not Rated,8992,1066
+524,The Last King,6/17/2016 0:00:00,Magnolia Pictures,Action,R,8905,1056
+525,Reparation,9/4/2016 0:00:00,Red Dirt Pictures,Drama,Not Rated,8752,1038
+526,Providence,2/12/2016 0:00:00,Main Street,Drama,Not Rated,8556,1014
+527,Never,8/19/2016 0:00:00,Indican Pictures,Drama,Not Rated,8392,995
+528,We Are Twisted F***ing Sister!,2/15/2016 0:00:00,Music Box Films,Documentary,Not Rated,8277,981
+529,Silicon Cowboys,9/16/2016 0:00:00,FilmRise,Documentary,Not Rated,8239,977
+530,Golden Kingdom,6/17/2016 0:00:00,Kino Lorber,Drama,Not Rated,8077,958
+531,The Other Side (2015),5/20/2016 0:00:00,Film Movement,Documentary,PG,8074,957
+532,Talent Has Hunger,3/11/2016 0:00:00,First Run Features,Documentary,Not Rated,7998,948
+533,The Lost Arcade,8/12/2016 0:00:00,26 Aries,Documentary,Not Rated,7500,889
+534,Tab Hunter Confidential,10/15/2015 0:00:00,,Documentary,Not Rated,7489,888
+535,Indian Point,7/8/2016 0:00:00,First Run Features,Documentary,Not Rated,7251,860
+536,The Pearl Button,10/23/2015 0:00:00,Kino Lorber,Documentary,Not Rated,7237,858
+537,Legend,11/20/2015 0:00:00,Universal,Thriller/Suspense,R,7220,856
+538,The Preppie Connection,3/18/2016 0:00:00,IFC Films,Drama,R,7138,846
+539,Rosenwald,8/14/2015 0:00:00,The Ciesla Foundation,Documentary,Not Rated,7033,834
+540,The Brainwashing of My Dad,3/18/2016 0:00:00,JSenko Productions,Documentary,Not Rated,7028,833
+541,Boom Bust Boom,3/11/2016 0:00:00,Brainstorm Media,Documentary,Not Rated,6896,818
+542,Behind the White Glasses: Portrait of Lina Wertmuller,3/4/2016 0:00:00,Parade Deck Films,Documentary,Not Rated,6840,811
+543,Mad Tiger,3/18/2016 0:00:00,Film Movement,Documentary,Not Rated,6823,809
+544,Pan,10/9/2015 0:00:00,Warner Bros.,Adventure,PG,6679,792
+545,Hot Water,5/5/2016 0:00:00,Indican Pictures,Documentary,Not Rated,6651,788
+546,The Dying of the Light,4/7/2016 0:00:00,First Run Features,Documentary,Not Rated,6627,786
+547,The Romans,5/27/2016 0:00:00,Indican Pictures,Drama,Not Rated,6516,772
+548,Ghost Team,8/12/2016 0:00:00,The Orchard,Comedy,PG-13,6245,740
+549,Closet Monster,9/23/2016 0:00:00,Strand,Drama,Not Rated,6118,725
+550,Undrafted,7/15/2016 0:00:00,Vertical Entertainment,Comedy,Not Rated,5777,685
+551,Tanna,9/16/2016 0:00:00,Lightyear Entertainment,Drama,Not Rated,5711,677
+552,The Channel,4/8/2016 0:00:00,Indican Pictures,Horror,Not Rated,5116,606
+553,The Carer,9/9/2016 0:00:00,Corinth Films,Comedy,Not Rated,5102,605
+554,Starcrossed,5/13/2016 0:00:00,Indican Pictures,Drama,Not Rated,5035,597
+555,A Perfect Day,1/15/2016 0:00:00,IFC Films,Drama,R,5002,593
+556,Seed: The Untold Story,8/22/2016 0:00:00,Collective Eye,Documentary,Not Rated,4955,587
+557,Call Her Applebroog,6/10/2016 0:00:00,Zeitgeist,Documentary,Not Rated,4842,574
+558,Roseanne for President!,7/1/2016 0:00:00,IFC Films,Documentary,Not Rated,4734,561
+559,Marinoni: The Fire in the Frame,4/1/2016 0:00:00,First Run Features,Documentary,Not Rated,4696,557
+560,Sworn Virgin,4/22/2016 0:00:00,Strand,Drama,Not Rated,4636,549
+561,The Ruins of Lifta,9/23/2016 0:00:00,First Run Features,Documentary,Not Rated,4620,548
+562,A Bit of Bad Luck,5/13/2016 0:00:00,Indican Pictures,Comedy,Not Rated,4604,546
+563,The Automatic Hate,3/11/2016 0:00:00,Film Movement,Drama,Not Rated,4603,546
+564,Search Party,5/13/2016 0:00:00,Focus World,Comedy,R,4571,542
+565,Synchronicity,1/22/2016 0:00:00,Magnolia Pictures,Thriller/Suspense,R,4505,534
+566,"Arabian Nights: Volume 3, The Enchanted One",12/18/2015 0:00:00,Kino Lorber,Documentary,Not Rated,4502,534
+567,Noma: My Perfect Storm,12/18/2015 0:00:00,Magnolia Pictures,Documentary,Not Rated,4430,525
+568,On Meditation,7/27/2016 0:00:00,Kino Lorber,Documentary,Not Rated,4322,512
+569,Breaking a Monster,6/24/2016 0:00:00,Abramorama Films,Documentary,Not Rated,4212,499
+570,I Don’t Belong Anywhere: The Cinema of Chantel Akerman,3/30/2016 0:00:00,Icarus Films,Documentary,Not Rated,4069,482
+571,Made in France,9/23/2016 0:00:00,Under the Milky Way,Thriller/Suspense,Not Rated,4015,476
+572,Miss Stevens,9/16/2016 0:00:00,The Orchard,Comedy,Not Rated,3858,457
+573,Amy,7/3/2015 0:00:00,A24,Documentary,R,3528,418
+574,Mi America,10/16/2016 0:00:00,Industrial House Films,Drama,R,3330,395
+575,Burning Bodhi,3/18/2016 0:00:00,Monterey Media,Drama,R,3289,390
+576,"Arabian Nights: Vol. 1, The Restless One",12/4/2015 0:00:00,Kino Lorber,Drama,Not Rated,3203,379
+577,In Harmony,4/15/2016 0:00:00,Distrib Films,Drama,Not Rated,3144,372
+578,Hooligan Sparrow,7/22/2016 0:00:00,The Film Collaborative,Documentary,Not Rated,3000,355
+579,Moana With Sound,11/13/2015 0:00:00,Kino Lorber,Documentary,Not Rated,2993,355
+580,The Professor: Tai Chi's Journey West,5/6/2016 0:00:00,First Run Features,Documentary,Not Rated,2852,338
+581,New World Order,9/23/2016 0:00:00,Indican Pictures,,Not Rated,2790,330
+582,The Summer of Sangaile,11/20/2015 0:00:00,Strand,Drama,Not Rated,2780,329
+583,White Lies,3/4/2016 0:00:00,ArtMattan Productions,Drama,Not Rated,2760,327
+584,The Forbidden Room,10/7/2015 0:00:00,Kino Lorber,Comedy,Not Rated,2670,316
+585,Mekong Hotel,3/4/2016 0:00:00,Strand,Multiple Genres,Not Rated,2502,296
+586,The World of Kanako,12/4/2015 0:00:00,Drafthouse Films,Drama,Not Rated,2498,296
+587,On War,11/20/2015 0:00:00,Indican Pictures,Comedy,Not Rated,2414,286
+588,Memoria,4/8/2016 0:00:00,Monterey Media,Drama,R,2242,265
+589,Vigilante Diaries,6/24/2016 0:00:00,Anchor Bay Entertainment,Action,R,1991,236
+590,Chronic,9/23/2016 0:00:00,Monument Releasing,Drama,R,1912,226
+591,Skiptrace,9/2/2016 0:00:00,Saban Films,Action,PG-13,1792,212
+592,A Beautiful Now,9/2/2016 0:00:00,Monterey Media,Drama,R,1717,203
+593,"Arabian Nights: Volume 2, The Desolate One",12/11/2015 0:00:00,Kino Lorber,Drama,Not Rated,1559,184
+594,Hyena Road,3/11/2016 0:00:00,Samuel Goldwyn Films,Drama,R,1430,169
+595,A Small Good Thing,8/19/2016 0:00:00,Kino Lorber,Documentary,Not Rated,1196,141
+596,Yalom's Cure,3/11/2016 0:00:00,First Run Features,Documentary,Not Rated,1164,138
+597,Misfortune,8/5/2016 0:00:00,Gunnison Galaxy,Thriller/Suspense,Not Rated,903,107
+598,Klown Forever,9/2/2016 0:00:00,Drafthouse Films,Comedy,Not Rated,860,102
+599,Next Time I’ll Aim for the Heart,4/1/2016 0:00:00,Distrib Films,Drama,Not Rated,815,96
+600,The Student and Mr. Henri,8/19/2016 0:00:00,Distrib Films,Romantic Comedy,Not Rated,761,90
+601,Down by Love,8/19/2016 0:00:00,Distrib Films,Drama,Not Rated,675,80
+602,Dark Star: H.R. Giger's World,5/13/2015 0:00:00,Icarus Films,Documentary,Not Rated,542,64
+603,Güeros,5/20/2015 0:00:00,Kino Lorber,Comedy,Not Rated,428,50
+604,News From Planet Mars,7/22/2016 0:00:00,Kino Lorber,Comedy,Not Rated,310,36
+605,The Lady in the Car With Glasses and A Gun,12/18/2015 0:00:00,Magnolia Pictures,Thriller/Suspense,Not Rated,266,31
+606,Satanic,7/1/2016 0:00:00,Magnolia Pictures,Horror,R,252,29
+607,The Last Film Festival,9/16/2016 0:00:00,Monterey Media,Comedy,R,134,15

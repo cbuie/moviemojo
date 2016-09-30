@@ -1,0 +1,707 @@
+Rank,Movie,ReleaseDate,Distributor,Genre,MPAA,Gross,Tickets Sold
+1,Iron Man 3,5/3/2013 0:00:00,Walt Disney,Action,PG-13,408992272,50306552
+2,The Hunger Games: Catching Fire,11/22/2013 0:00:00,Lionsgate,Adventure,PG-13,407139699,50078683
+3,Despicable Me 2,7/3/2013 0:00:00,Universal,Comedy,PG,367956735,45259130
+4,Frozen,11/27/2013 0:00:00,Walt Disney,Adventure,PG,296691729,36493447
+5,Man of Steel,6/14/2013 0:00:00,Warner Bros.,Action,PG-13,291045518,35798956
+6,Monsters University,6/21/2013 0:00:00,Walt Disney,Adventure,G,268488329,33024394
+7,Gravity,10/4/2013 0:00:00,Warner Bros.,Thriller/Suspense,PG-13,255621667,31441779
+8,Fast and Furious 6,5/24/2013 0:00:00,Universal,Action,PG-13,238679850,29357915
+9,Oz the Great and Powerful,3/8/2013 0:00:00,Walt Disney,Adventure,PG,234770996,28877121
+10,The Hobbit: The Desolation of Smaug,12/13/2013 0:00:00,Warner Bros.,Adventure,PG-13,229059642,28174617
+11,Star Trek Into Darkness,5/16/2013 0:00:00,Paramount Pictures,Adventure,PG-13,228778661,28140056
+12,Thor: The Dark World,11/8/2013 0:00:00,Walt Disney,Adventure,PG-13,203449204,25024502
+13,World War Z,6/21/2013 0:00:00,Paramount Pictures,Action,PG-13,202359711,24890493
+14,The Croods,3/22/2013 0:00:00,20th Century Fox,Adventure,PG,187168425,23021946
+15,The Heat,6/28/2013 0:00:00,20th Century Fox,Comedy,R,159581587,19628731
+16,We're the Millers,8/7/2013 0:00:00,Warner Bros.,Comedy,R,150394119,18498661
+17,The Great Gatsby,5/10/2013 0:00:00,Warner Bros.,Drama,PG-13,144840419,17815549
+18,The Conjuring,7/19/2013 0:00:00,Warner Bros.,Horror,R,137400141,16900386
+19,Identity Thief,2/8/2013 0:00:00,Universal,Comedy,R,134506920,16544516
+20,Grown Ups 2,7/12/2013 0:00:00,Sony Pictures,Comedy,PG-13,133668525,16441392
+21,The Wolverine,7/26/2013 0:00:00,20th Century Fox,Action,PG-13,132556852,16304655
+22,G.I. Joe: Retaliation,3/27/2013 0:00:00,Paramount Pictures,Action,PG-13,122523060,15070487
+23,Now You See Me,5/31/2013 0:00:00,Lionsgate,Thriller/Suspense,PG-13,117723989,14480195
+24,Cloudy with a Chance of Meatballs 2,9/27/2013 0:00:00,Sony Pictures,Adventure,PG,117614237,14466695
+25,Lee Daniels' The Butler,8/16/2013 0:00:00,Weinstein Co.,Drama,PG-13,116293662,14304263
+26,The Hangover 3,5/23/2013 0:00:00,Warner Bros.,Comedy,R,112200072,13800746
+27,Anchorman 2: The Legend Continues,12/18/2013 0:00:00,Paramount Pictures,Comedy,PG-13,108713472,13371890
+28,Epic,5/24/2013 0:00:00,20th Century Fox,Adventure,PG,107518682,13224930
+29,Captain Phillips,10/11/2013 0:00:00,Sony Pictures,Drama,PG-13,104834734,12894801
+30,Pacific Rim,7/12/2013 0:00:00,Warner Bros.,Action,PG-13,101802906,12521882
+31,Jackass Presents: Bad Grandpa,10/25/2013 0:00:00,Paramount Pictures,Comedy,R,101625444,12500054
+32,This is the End,6/12/2013 0:00:00,Sony Pictures,Comedy,R,101470202,12480959
+33,Olympus Has Fallen,3/22/2013 0:00:00,FilmDistrict,Thriller/Suspense,R,98927592,12168215
+34,Silver Linings Playbook,11/16/2012 0:00:00,Weinstein Co.,Drama,R,97416189,11982311
+35,42,4/12/2013 0:00:00,Warner Bros.,Drama,PG-13,95020213,11687603
+36,Elysium,8/9/2013 0:00:00,Sony Pictures,Action,R,93050117,11445278
+37,Zero Dark Thirty,12/19/2012 0:00:00,Sony Pictures,Drama,R,91314578,11231805
+38,Disney Planes,8/9/2013 0:00:00,Walt Disney,Comedy,PG,90282580,11104868
+39,The Lone Ranger,7/2/2013 0:00:00,Walt Disney,Western,PG-13,89302115,10984269
+40,Oblivion,4/19/2013 0:00:00,Universal,Thriller/Suspense,PG-13,89107235,10960299
+41,American Hustle,12/13/2013 0:00:00,Sony Pictures,Black Comedy,R,87923123,10814652
+42,Insidious Chapter 2,9/13/2013 0:00:00,FilmDistrict,Horror,PG-13,83586447,10281235
+43,Turbo,7/17/2013 0:00:00,20th Century Fox,Adventure,PG,83028130,10212562
+44,2 Guns,8/2/2013 0:00:00,Universal,Action,R,75612460,9300425
+45,White House Down,6/28/2013 0:00:00,Sony Pictures,Thriller/Suspense,PG-13,73103784,8991855
+46,Mama,1/18/2013 0:00:00,Universal,Horror,PG-13,71628180,8810354
+47,Safe Haven,2/14/2013 0:00:00,Relativity,Drama,PG-13,71399120,8782179
+48,The Smurfs 2,7/31/2013 0:00:00,Sony Pictures,Adventure,PG,71017784,8735274
+49,The Best Man Holiday,11/15/2013 0:00:00,Universal,Comedy,R,70492685,8670686
+50,Percy Jackson: Sea of Monsters,8/7/2013 0:00:00,20th Century Fox,Adventure,PG,68518210,8427824
+51,A Good Day to Die Hard,2/14/2013 0:00:00,20th Century Fox,Action,R,67349198,8284034
+52,Warm Bodies,2/1/2013 0:00:00,Lionsgate,Romantic Comedy,PG-13,66380662,8164903
+53,Jack the Giant Slayer,3/1/2013 0:00:00,Warner Bros.,Adventure,PG-13,65187603,8018155
+54,The Purge,6/7/2013 0:00:00,Universal,Thriller/Suspense,R,64473115,7930272
+55,The Wolf of Wall Street,12/25/2013 0:00:00,Paramount Pictures,Black Comedy,R,63125467,7764510
+56,Last Vegas,11/1/2013 0:00:00,CBS Films,Comedy,PG-13,63112318,7762892
+57,Ender's Game,11/1/2013 0:00:00,Lionsgate,Adventure,PG-13,61656849,7583868
+58,Prisoners,9/20/2013 0:00:00,Warner Bros.,Thriller/Suspense,R,61002302,7503358
+59,After Earth,5/31/2013 0:00:00,Sony Pictures,Action,PG-13,60522097,7444292
+60,Saving Mr. Banks,12/20/2013 0:00:00,Walt Disney,Drama,PG-13,58958280,7251940
+61,Escape From Planet Earth,2/15/2013 0:00:00,Weinstein Co.,Adventure,PG,57012977,7012666
+62,Django Unchained,12/25/2012 0:00:00,Weinstein Co.,Western,R,56525312,6952682
+63,Hansel & Gretel: Witch Hunters,1/25/2013 0:00:00,Paramount Pictures,Action,R,55703475,6851595
+64,Free Birds,11/1/2013 0:00:00,Relativity,Comedy,PG,54894525,6752094
+65,Evil Dead,4/5/2013 0:00:00,Sony Pictures,Horror,R,54239856,6671569
+66,RED 2,7/19/2013 0:00:00,Lionsgate,Action,PG-13,53262560,6551360
+67,Tyler Perry's Temptation,3/29/2013 0:00:00,Lionsgate,Drama,PG-13,51975354,6393032
+68,The Call,3/15/2013 0:00:00,Sony Pictures,Thriller/Suspense,R,51872378,6380366
+69,Tyler Perry's A Madea Christmas,12/13/2013 0:00:00,Lionsgate,Comedy,PG-13,50227277,6178016
+70,Pain & Gain,4/26/2013 0:00:00,Paramount Pictures,Action,R,49875291,6134722
+71,Gangster Squad,1/11/2013 0:00:00,Warner Bros.,Drama,R,46000903,5658167
+72,The Secret Life of Walter Mitty,12/25/2013 0:00:00,20th Century Fox,Comedy,PG,45470954,5592983
+73,Jurassic Park,8/26/1994 0:00:00,Universal,Action,PG-13,45385935,5582525
+74,Les Miserables,12/25/2012 0:00:00,Universal,Musical,PG-13,45306730,5572783
+75,The Internship,6/7/2013 0:00:00,20th Century Fox,Comedy,PG-13,44672764,5494804
+76,Instructions Not Included,8/30/2013 0:00:00,Pantelion Films,Comedy,PG-13,44467206,5469521
+77,Snitch,2/22/2013 0:00:00,Lionsgate,Thriller/Suspense,PG-13,42930462,5280499
+78,Riddick,9/6/2013 0:00:00,Universal,Action,R,42025135,5169143
+79,A Haunted House,1/11/2013 0:00:00,Open Road,Comedy,R,40041683,4925176
+80,The Hobbit: An Unexpected Journey,12/14/2012 0:00:00,Warner Bros.,Adventure,PG-13,39168675,4817795
+81,12 Years a Slave,10/18/2013 0:00:00,Fox Searchlight,Drama,R,38472086,4732113
+82,Lincoln,11/9/2012 0:00:00,Walt Disney,Drama,PG-13,38118927,4688674
+83,The Family,9/13/2013 0:00:00,Relativity,Black Comedy,R,36917730,4540926
+84,Carrie,10/18/2013 0:00:00,Sony Pictures,Horror,R,35266619,4337837
+85,Texas Chainsaw 3D,1/4/2013 0:00:00,Lionsgate,Horror,R,34341945,4224101
+86,Life of Pi,11/21/2012 0:00:00,20th Century Fox,Drama,PG,33947534,4175588
+87,R.I.P.D.,7/19/2013 0:00:00,Universal,Action,PG-13,33618855,4135160
+88,Blue Jasmine,7/26/2013 0:00:00,Sony Pictures Classics,Comedy,PG-13,32744634,4027630
+89,47 Ronin,12/25/2013 0:00:00,Universal,Action,PG-13,32687680,4020624
+90,Kevin Hart: Let Me Explain,7/3/2013 0:00:00,Lionsgate,Concert/Performance,R,32244051,3966057
+91,Side Effects,2/8/2013 0:00:00,Open Road,Thriller/Suspense,R,32172757,3957288
+92,Scary Movie 5,4/12/2013 0:00:00,Weinstein Co.,Comedy,PG-13,32015787,3937981
+93,Walking with Dinosaurs,12/20/2013 0:00:00,20th Century Fox,Adventure,PG,31344185,3855373
+94,The Mortal Instruments: City of Bones,8/21/2013 0:00:00,Sony Pictures,Adventure,PG-13,31165421,3833385
+95,Delivery Man,11/22/2013 0:00:00,Walt Disney,Comedy,PG-13,29866438,3673608
+96,One Direction: This is Us,8/30/2013 0:00:00,Sony Pictures,Concert/Performance,PG,28873374,3551460
+97,Kick-Ass 2,8/16/2013 0:00:00,Universal,Action,R,28795985,3541941
+98,Rush,9/20/2013 0:00:00,Universal,Drama,R,26947624,3314590
+99,The Host,3/29/2013 0:00:00,Open Road,Thriller/Suspense,PG-13,26623701,3274747
+100,The World's End,8/23/2013 0:00:00,Focus Features,Comedy,R,26004851,3198628
+101,Argo,10/12/2012 0:00:00,Warner Bros.,Thriller/Suspense,R,25918584,3188017
+102,21 and Over,3/1/2013 0:00:00,Relativity,Comedy,R,25682380,3158964
+103,Escape Plan,10/18/2013 0:00:00,Lionsgate,Thriller/Suspense,R,25063555,3082848
+104,Parental Guidance,12/25/2012 0:00:00,20th Century Fox,Comedy,PG,24927598,3066125
+105,Grudge Match,12/25/2013 0:00:00,Warner Bros.,Comedy,PG-13,24835480,3054794
+106,Don Jon,9/27/2013 0:00:00,Relativity,Romantic Comedy,R,24475193,3010478
+107,The Incredible Burt Wonderstone,3/15/2013 0:00:00,Warner Bros.,Comedy,PG-13,22537881,2772187
+108,The Big Wedding,4/26/2013 0:00:00,Lionsgate,Romantic Comedy,R,21819348,2683806
+109,Mud,4/26/2013 0:00:00,Roadside Attractions,Drama,PG-13,21590086,2655607
+110,Baggage Claim,9/27/2013 0:00:00,Fox Searchlight,Romantic Comedy,PG-13,21569509,2653076
+111,The Way Way Back,7/5/2013 0:00:00,Fox Searchlight,Comedy,PG-13,21502690,2644857
+112,The Place Beyond the Pines,3/29/2013 0:00:00,Focus Features,Drama,R,21403519,2632659
+113,Homefront,11/27/2013 0:00:00,Open Road,Action,R,20158492,2479519
+114,Broken City,1/18/2013 0:00:00,20th Century Fox,Thriller/Suspense,R,19701164,2423267
+115,Philomena,11/22/2013 0:00:00,Weinstein Co.,Drama,PG-13,19586311,2409140
+116,Beautiful Creatures,2/14/2013 0:00:00,Warner Bros.,Thriller/Suspense,PG-13,19452138,2392636
+117,Runner Runner,10/4/2013 0:00:00,20th Century Fox,Thriller/Suspense,R,19316646,2375971
+118,The Book Thief,11/8/2013 0:00:00,20th Century Fox,Drama,PG-13,19091819,2348317
+119,You're Next,8/23/2013 0:00:00,Lionsgate,Horror,R,18494006,2274785
+120,Quartet,1/11/2013 0:00:00,Weinstein Co.,Comedy,PG-13,18388357,2261790
+121,Admission,3/22/2013 0:00:00,Focus Features,Romantic Comedy,PG-13,18007317,2214922
+122,Parker,1/25/2013 0:00:00,FilmDistrict,Thriller/Suspense,R,17616641,2166868
+123,Enough Said,9/18/2013 0:00:00,Fox Searchlight,Comedy,PG-13,17497669,2152234
+124,Dark Skies,2/22/2013 0:00:00,Weinstein Co.,Thriller/Suspense,PG-13,17418667,2142517
+125,The Counselor,10/25/2013 0:00:00,20th Century Fox,Thriller/Suspense,R,16960224,2086128
+126,Dallas Buyers Club,11/1/2013 0:00:00,Focus Features,Drama,R,16300843,2005023
+127,Jobs,8/16/2013 0:00:00,Open Road,Drama,PG-13,16131410,1984183
+128,Fruitvale Station,7/12/2013 0:00:00,Weinstein Co.,Drama,R,16098998,1980196
+129,The Impossible,12/21/2012 0:00:00,Lionsgate,Drama,PG-13,15607469,1919737
+130,Jack Reacher,12/21/2012 0:00:00,Paramount Pictures,Drama,PG-13,15373522,1890962
+131,About Time,11/1/2013 0:00:00,Universal,Romantic Comedy,R,15323921,1884861
+132,The Last Exorcism Part II,3/1/2013 0:00:00,CBS Films,Horror,PG-13,15179303,1867072
+133,Spring Breakers,3/15/2013 0:00:00,A24,Thriller/Suspense,R,14124286,1737304
+134,This is 40,12/21/2012 0:00:00,Universal,Comedy,R,13289310,1634601
+135,The Last Stand,1/18/2013 0:00:00,Lionsgate,Action,R,12050299,1482201
+136,Top Gun,5/16/1986 0:00:00,Paramount Pictures,Action,PG,11342600,1395153
+137,Out of the Furnace,12/4/2013 0:00:00,Relativity,Drama,R,11187536,1376080
+138,Wreck-It Ralph,11/2/2012 0:00:00,Walt Disney,Adventure,PG,10911037,1342070
+139,Dead Man Down,3/8/2013 0:00:00,FilmDistrict,Thriller/Suspense,R,10895295,1340134
+140,Getaway,8/30/2013 0:00:00,Warner Bros.,Thriller/Suspense,PG-13,10501938,1291751
+141,Bullet to the Head,2/1/2013 0:00:00,Warner Bros.,Action,R,9489829,1167260
+142,Peeples,5/10/2013 0:00:00,Lionsgate,Romantic Comedy,PG-13,9177065,1128790
+143,Battle of the Year 3D,9/20/2013 0:00:00,Sony Pictures,Drama,PG-13,8888355,1093278
+144,Movie 43,1/25/2013 0:00:00,Relativity,Comedy,R,8840453,1087386
+145,Before Midnight,5/24/2013 0:00:00,Sony Pictures Classics,Drama,R,8110621,997616
+146,Machete Kills,10/11/2013 0:00:00,Open Road,Action,R,8008161,985013
+147,Dhoom 3,12/20/2013 0:00:00,Yash Raj Films,Action,Not Rated,7846872,965174
+148,Inside Llewyn Davis,12/6/2013 0:00:00,CBS Films,Drama,R,7757978,954240
+149,Skyfall,11/9/2012 0:00:00,Sony Pictures,Action,PG-13,7555911,929386
+150,Paranoia,8/16/2013 0:00:00,Relativity,Thriller/Suspense,PG-13,7388654,908813
+151,Mandela: Long Walk to Freedom,11/29/2013 0:00:00,Weinstein Co.,Drama,PG-13,7061587,868583
+152,Black Nativity,11/27/2013 0:00:00,20th Century Fox,Musical,PG,7012316,862523
+153,Nebraska,11/15/2013 0:00:00,Paramount Pictures,Drama,R,7003296,861414
+154,The Spectacular Now,8/2/2013 0:00:00,A24,Comedy,R,6852971,842923
+155,The Grandmaster,8/23/2013 0:00:00,Weinstein Co.,Action,PG-13,6594959,811188
+156,Amour,12/19/2012 0:00:00,Sony Pictures Classics,Drama,PG-13,6427707,790615
+157,Rise of the Guardians,11/21/2012 0:00:00,Paramount Pictures,Adventure,PG,6185091,760773
+158,All is Lost,10/18/2013 0:00:00,Roadside Attractions,Thriller/Suspense,PG-13,6047207,743813
+159,The Guilt Trip,12/19/2012 0:00:00,Paramount Pictures,Comedy,PG-13,6022333,740754
+160,Justin Bieber’s Believe,12/25/2013 0:00:00,Open Road,Documentary,PG,5962982,733454
+161,The Bling Ring,6/14/2013 0:00:00,A24,Drama,R,5845732,719032
+162,Pulling Strings,10/4/2013 0:00:00,Pantelion Films,Romantic Comedy,PG,5842961,718691
+163,Closed Circuit,8/28/2013 0:00:00,Focus Features,Thriller/Suspense,R,5750995,707379
+164,"Monsters, Inc.",11/2/2001 0:00:00,Walt Disney,Adventure,G,5571699,685325
+165,The Wizard of Oz,9/23/2009 0:00:00,Warner Bros.,Musical,PG-13,5509334,677654
+166,Hubble 3D,3/19/2010 0:00:00,Warner Bros.,Documentary,G,5361957,659527
+167,Chennai Express,8/8/2013 0:00:00,UTV Communications,Romantic Comedy,Not Rated,5307960,652885
+168,The Company You Keep,4/5/2013 0:00:00,Sony Pictures Classics,Thriller/Suspense,R,5132442,631296
+169,20 Feet From Stardom,6/14/2013 0:00:00,RADiUS-TWC,Documentary,PG-13,4821266,593021
+170,Much Ado About Nothing,6/7/2013 0:00:00,Roadside Attractions,Romantic Comedy,PG-13,4328850,532453
+171,Frances Ha,5/17/2013 0:00:00,IFC Films,Comedy,R,4066826,500224
+172,Yeh Jawaani Hai Deewani,5/31/2013 0:00:00,Eros Entertainment,,Not Rated,3827466,470783
+173,The To Do List,7/26/2013 0:00:00,CBS Films,Comedy,R,3491669,429479
+174,Metallica Through the Never,9/27/2013 0:00:00,Picturehouse,Concert/Performance,R,3419967,420660
+175,Emperor,3/8/2013 0:00:00,Roadside Attractions,Drama,PG-13,3346264,411594
+176,Stand Up Guys,2/1/2013 0:00:00,Roadside Attractions,Drama,R,3310031,407137
+177,The Fifth Estate,10/18/2013 0:00:00,Walt Disney,Drama,R,3254172,400267
+178,Promised Land,12/28/2012 0:00:00,Focus Features,Drama,R,3202459,393906
+179,"The Twilight Saga: Breaking Dawn, Part 2",11/16/2012 0:00:00,Lionsgate,Drama,PG-13,3191381,392543
+180,Hyde Park on Hudson,12/7/2012 0:00:00,Focus Features,Drama,R,3166260,389453
+181,Her,1/10/2014 0:00:00,Warner Bros.,Drama,R,2987741,367495
+182,In a World...,8/9/2013 0:00:00,Roadside Attractions,Comedy,R,2963271,364485
+183,To the Arctic 3D,4/20/2012 0:00:00,Warner Bros.,Documentary,G,2930286,360428
+184,Home Run,4/19/2013 0:00:00,Samuel Goldwyn Films,Drama,PG-13,2859955,351777
+185,Filly Brown,4/19/2013 0:00:00,Pantelion Films,Drama,R,2850357,350597
+186,Grace Unplugged,10/4/2013 0:00:00,Roadside Attractions,Drama,PG,2507159,308383
+187,The Sapphires,3/22/2013 0:00:00,Weinstein Co.,Musical,PG-13,2450867,301459
+188,Space Station,4/19/2002 0:00:00,IMAX Films,Documentary,Not Rated,2436846,299735
+189,Blue is the Warmest Color,10/25/2013 0:00:00,IFC Films,Drama,NC-17,2426783,298497
+190,The Gatekeepers,2/1/2013 0:00:00,Sony Pictures Classics,Documentary,PG-13,2408553,296254
+191,I'm in Love with a Church Girl,10/18/2013 0:00:00,High Top Releasing,Drama,PG,2387730,293693
+192,No,2/15/2013 0:00:00,Sony Pictures Classics,Drama,R,2341226,287973
+193,Trance,4/5/2013 0:00:00,Fox Searchlight,Thriller/Suspense,R,2322593,285681
+194,Renoir,3/29/2013 0:00:00,Samuel Goldwyn Films,Drama,R,2291047,281801
+195,The East,5/31/2013 0:00:00,Fox Searchlight,Drama,PG-13,2274649,279784
+196,Oldboy,11/27/2013 0:00:00,FilmDistrict,Action,R,2193658,269822
+197,2013 Oscar Shorts,2/1/2013 0:00:00,Shorts International,Multiple Genres,Not Rated,2142342,263510
+198,Hotel Transylvania,9/28/2012 0:00:00,Sony Pictures,Comedy,PG,2140687,263307
+199,Austenland,8/16/2013 0:00:00,Sony Pictures Classics,Romantic Comedy,PG-13,2137573,262924
+200,Krrish 3,11/1/2013 0:00:00,Eros Entertainment,,Not Rated,2123333,261172
+201,Blackfish,7/19/2013 0:00:00,Magnolia Pictures,Documentary,PG-13,2073582,255053
+202,The Iceman,5/3/2013 0:00:00,Alchemy,Drama,R,1930282,237427
+203,Fill the Void,5/24/2013 0:00:00,Sony Pictures Classics,Drama,PG,1774639,218282
+204,Stoker,3/1/2013 0:00:00,Fox Searchlight,Drama,R,1703125,209486
+205,Unfinished Song,6/21/2013 0:00:00,Weinstein Co.,Comedy,PG-13,1698952,208973
+206,Cirque du Soleil: Worlds Away,12/21/2012 0:00:00,Paramount Pictures,Drama,PG,1634500,201045
+207,The Christmas Candle,11/15/2013 0:00:00,Echolight Studios,Adventure,PG,1632000,200738
+208,Love Is All You Need,5/3/2013 0:00:00,Sony Pictures Classics,Romantic Comedy,R,1631306,200652
+209,Bhaag Milkha Bhaag,7/12/2013 0:00:00,Reliance Big Pictures,,Not Rated,1626289,200035
+210,The Attack,6/21/2013 0:00:00,Cohen Media Group,Drama,R,1625707,199963
+211,Seethamma Vakitlo Sirimalle Chettu,1/10/2013 0:00:00,Ficus,Comedy,Not Rated,1582476,194646
+212,Race 2,1/25/2013 0:00:00,UTV Communications,Action,Not Rated,1579940,194334
+213,Flying Monsters 3D,10/6/2011 0:00:00,National Geographic Entertainment,Documentary,Not Rated,1574271,193637
+214,The Saratov Approach,10/9/2013 0:00:00,Purdie Distribution,Thriller/Suspense,PG-13,1573124,193496
+215,"Bless Me, Ultima",2/22/2013 0:00:00,Arenas Entertainment,Drama,PG-13,1559556,191827
+216,Beasts of the Southern Wild,6/27/2012 0:00:00,Fox Searchlight,Drama,PG-13,1546618,190235
+217,Kon-Tiki,4/26/2013 0:00:00,Weinstein Co.,Drama,PG-13,1517410,186643
+218,Atharintiki Daaredi,9/27/2013 0:00:00,,,Not Rated,1500000,184501
+219,Disconnect,4/12/2013 0:00:00,LD Entertainment,Drama,R,1436862,176735
+220,Girl Most Likely,7/19/2013 0:00:00,Roadside Attractions,Comedy,PG-13,1378591,169568
+221,I'm So Excited,6/28/2013 0:00:00,Sony Pictures Classics,Comedy,R,1359796,167256
+222,Stories We Tell,5/10/2013 0:00:00,Roadside Attractions,Documentary,PG-13,1358516,167099
+223,Wadjda,9/13/2013 0:00:00,Sony Pictures Classics,Drama,PG,1342455,165123
+224,Born to be Wild 3D,4/8/2011 0:00:00,Warner Bros.,Documentary,G,1334377,164130
+225,The Ultimate Life,9/6/2013 0:00:00,High Top Releasing,Drama,PG,1327841,163326
+226,The Kings of Summer,5/31/2013 0:00:00,CBS Films,Comedy,R,1315500,161808
+227,Flight,11/2/2012 0:00:00,Paramount Pictures,Drama,R,1284009,157934
+228,Anna Karenina,11/16/2012 0:00:00,Focus Features,Drama,R,1278604,157269
+229,Rust & Bone,11/23/2012 0:00:00,Sony Pictures Classics,Drama,R,1195433,147039
+230,Inequality for All,9/27/2013 0:00:00,RADiUS-TWC,Documentary,PG,1192778,146713
+231,Here Comes the Boom,10/12/2012 0:00:00,Sony Pictures,Comedy,PG,1189316,146287
+232,The Lords of Salem,4/19/2013 0:00:00,Anchor Bay Entertainment,Horror,R,1165881,143404
+233,Romeo & Juliet,10/11/2013 0:00:00,Relativity,Drama,R,1162635,143005
+234,Under the Sea 3D,2/13/2009 0:00:00,Warner Bros.,Documentary,G,1142800,140565
+235,Kai Po Che,2/22/2013 0:00:00,UTV Communications,Drama,Not Rated,1122527,138072
+236,Thanks for Sharing,9/20/2013 0:00:00,Roadside Attractions,Comedy,R,1066256,131150
+237,Special 26,2/8/2013 0:00:00,Viva Entertainment,Drama,Not Rated,1065938,131111
+238,What Maisie Knew,5/3/2013 0:00:00,Alchemy,Drama,R,1065000,130996
+239,Phantom,3/1/2013 0:00:00,RCR Media Group,Thriller/Suspense,R,1034589,127255
+240,Ginger & Rosa,3/15/2013 0:00:00,A24,Drama,PG-13,1012973,124596
+241,Short Term 12,8/23/2013 0:00:00,Cinedigm,Drama,R,1007582,123933
+242,From Up on Poppy Hill,3/15/2013 0:00:00,GKIDS,Drama,PG,1000878,123109
+243,Lore,2/8/2013 0:00:00,Music Box Films,Drama,Not Rated,970325,119351
+244,The Great Beauty,11/15/2013 0:00:00,Janus Films,Drama,Not Rated,948906,116716
+245,Red Dawn,11/21/2012 0:00:00,Open Road,Action,PG-13,929740,114359
+246,A Royal Affair,11/9/2012 0:00:00,Magnolia Pictures,Drama,R,887413,109152
+247,Generation Iron,9/20/2013 0:00:00,Docurama,Documentary,PG-13,849521,104492
+248,Girl Rising,3/7/2013 0:00:00,Gathr Films,Documentary,PG-13,849484,104487
+249,Meerkats,5/26/2012 0:00:00,National Geographic Entertainment,Documentary,Not Rated,845613,104011
+250,Only God Forgives,7/19/2013 0:00:00,Radius,Thriller/Suspense,R,775849,95430
+251,Kill Your Darlings,10/18/2013 0:00:00,Sony Pictures Classics,Drama,R,760506,93543
+252,Raanjhanaa,6/21/2013 0:00:00,Eros Entertainment,Drama,Not Rated,756233,93017
+253,Satyagraha,8/30/2013 0:00:00,UTV Communications,Drama,Not Rated,738525,90839
+254,Hannah Arendt,5/29/2013 0:00:00,Zeitgeist,Drama,Not Rated,717205,88217
+255,56 Up,1/4/2013 0:00:00,First Run Features,Documentary,Not Rated,701278,86258
+256,Burn,7/20/2012 0:00:00,"Callbox, LLC",Documentary,Not Rated,693125,85255
+257,The Hunt,7/12/2013 0:00:00,Magnolia Pictures,Drama,R,687185,84524
+258,Muscle Shoals,9/27/2013 0:00:00,Magnolia Pictures,Documentary,PG,671810,82633
+259,Parkland,10/4/2013 0:00:00,Exclusive Releasing,Drama,PG-13,641439,78897
+260,Deep Sea 3-D,3/3/2006 0:00:00,Warner Bros.,Documentary,G,641339,78885
+261,Fanny,7/25/2014 0:00:00,Kino Lorber,Drama,Not Rated,596197,73332
+262,To the Wonder,4/12/2013 0:00:00,Magnolia Pictures,Drama,R,584563,71901
+263,Salinger,9/6/2013 0:00:00,Weinstein Co.,Documentary,PG-13,583633,71787
+264,On the Road,12/21/2012 0:00:00,IFC Films,Drama,R,581465,71520
+265,Taken 2,10/5/2012 0:00:00,20th Century Fox,Thriller/Suspense,PG-13,569523,70052
+266,The Lost Medallion: The Adventures of Billy Stone,3/1/2013 0:00:00,Freestyle Releasing,Adventure,PG,549632,67605
+267,The Reluctant Fundamentalist,4/26/2013 0:00:00,IFC Films,Drama,R,528731,65034
+268,Museum Hours,6/28/2013 0:00:00,Cinema Guild,Drama,Not Rated,526804,64797
+269,Hitchcock,11/23/2012 0:00:00,Fox Searchlight,Drama,PG-13,519781,63933
+270,Scatter My Ashes at Bergdorf's,5/3/2013 0:00:00,Entertainment One,Documentary,PG-13,516719,63557
+271,Haute Cuisine,9/20/2013 0:00:00,Weinstein Co.,Comedy,PG-13,510587,62802
+272,The Inevitable Defeat of Mister and Pete,10/11/2013 0:00:00,Codeblack Entertainment,Drama,R,494608,60837
+273,The Face Reader,10/4/2013 0:00:00,Pan Media & Entertainment,Drama,Not Rated,484112,59546
+274,August:  Osage County,12/25/2013 0:00:00,Weinstein Co.,Black Comedy,R,481684,59247
+275,The Act of Killing,7/19/2013 0:00:00,Drafthouse Films,Documentary,Not Rated,461777,56799
+276,New World,3/22/2013 0:00:00,Well Go USA,Thriller/Suspense,Not Rated,450222,55377
+277,Upstream Color,4/5/2013 0:00:00,erbp Film,Drama,Not Rated,444098,54624
+278,Sound City,1/31/2013 0:00:00,Variance Films,Documentary,Not Rated,422853,52011
+279,A Hijacking,6/21/2013 0:00:00,Magnolia Pictures,Thriller/Suspense,R,414437,50976
+280,Ain't Them Bodies Saints,8/16/2013 0:00:00,IFC Films,Drama,R,391611,48168
+281,Besharam,10/2/2013 0:00:00,Reliance Big Pictures,Romantic Comedy,Not Rated,388915,47837
+282,In the House,4/19/2013 0:00:00,Cohen Media Group,Drama,R,388044,47729
+283,Bicycling with Moliere,4/23/2014 0:00:00,Strand,Comedy,Not Rated,381269,46896
+284,At Any Price,4/24/2013 0:00:00,Sony Pictures Classics,Drama,R,379791,46714
+285,Dirty Wars,6/7/2013 0:00:00,IFC Films,Documentary,Not Rated,371245,45663
+286,The Sessions,10/19/2012 0:00:00,Fox Searchlight,Drama,R,370427,45562
+287,Shootout at Wadala,5/3/2013 0:00:00,Eros Entertainment,Action,Not Rated,369310,45425
+288,Hava Nagila: The Movie,3/1/2013 0:00:00,International Film Circuit,Documentary,Not Rated,368724,45353
+289,Shuddh Desi Romance,9/6/2013 0:00:00,Yash Raj Films,Romantic Comedy,Not Rated,366000,45018
+290,Frankenweenie,10/5/2012 0:00:00,Walt Disney,Comedy,PG,354055,43549
+291,Watermark,4/4/2014 0:00:00,Entertainment One,Documentary,PG,353184,43442
+292,Lovelace,8/9/2013 0:00:00,Radius,Drama,R,352755,43389
+293,Pitch Perfect,10/5/2012 0:00:00,Universal,Comedy,PG-13,345235,42464
+294,Personal Tailor,12/20/2013 0:00:00,China Lion Film Distribution,Comedy,Not Rated,345000,42435
+295,Mindless Behavior: All Around The World,3/15/2013 0:00:00,"AwesomenessTV, Conjunction Films",Concert/Performance,G,344500,42373
+296,Drinking Buddies,8/23/2013 0:00:00,Magnolia Pictures,Drama,R,343706,42276
+297,Koch,2/1/2013 0:00:00,Zeitgeist,Documentary,Not Rated,342941,42182
+298,Starbuck,3/22/2013 0:00:00,Entertainment One,Comedy,R,339972,41816
+299,Diana,11/1/2013 0:00:00,Entertainment One,Drama,PG-13,335360,41249
+300,Happy People: A Year in the Taiga,1/25/2013 0:00:00,Music Box Films,Documentary,Not Rated,329464,40524
+301,Lone Survivor,1/10/2014 0:00:00,Universal,Action,R,326685,40182
+302,Camp,2/22/2013 0:00:00,,Drama,PG-13,324976,39972
+303,Not Today,4/12/2013 0:00:00,Freestyle Releasing,Drama,PG-13,318121,39129
+304,The Angels' Share,4/12/2013 0:00:00,IFC Films,Comedy,Not Rated,312339,38418
+305,Adore,9/6/2013 0:00:00,Exclusive Releasing,Drama,R,302020,37148
+306,Go Goa Gone,5/10/2013 0:00:00,Eros Entertainment,Horror,Not Rated,295414,36336
+307,Himmatwala,3/29/2013 0:00:00,UTV Communications,Action,Not Rated,270880,33318
+308,West of Memphis,12/25/2012 0:00:00,Sony Pictures Classics,Documentary,R,270705,33297
+309,The Master,9/14/2012 0:00:00,Weinstein Co.,Drama,R,267290,32876
+310,War Witch,3/1/2013 0:00:00,TriBeca Films,Drama,Not Rated,265273,32628
+311,The Perks of Being a Wallflower,9/21/2012 0:00:00,Lionsgate,Drama,R,263920,32462
+312,Room 237,3/29/2013 0:00:00,IFC Films,Documentary,Not Rated,263411,32399
+313,Great Expectations,11/8/2013 0:00:00,Main Street,Drama,PG-13,258656,31815
+314,Linsanity,10/4/2013 0:00:00,,Documentary,PG,258427,31786
+315,Playing for Keeps,12/7/2012 0:00:00,FilmDistrict,Romantic Comedy,PG-13,251675,30956
+316,Midnight's Children,4/26/2013 0:00:00,Paladin,Drama,Not Rated,248450,30559
+317,The Attacks of 26/11,3/1/2013 0:00:00,Eros Entertainment,Drama,Not Rated,248346,30546
+318,Blancanieves,3/15/2013 0:00:00,Cohen Media Group,Drama,PG-13,236394,29076
+319,Chashme Baddoor,4/5/2013 0:00:00,Viva Entertainment,Comedy,Not Rated,235401,28954
+320,A Place at the Table,3/1/2013 0:00:00,Magnolia Pictures,Documentary,PG,231378,28459
+321,InAPPropriate Comedy,3/22/2013 0:00:00,Freestyle Releasing,Comedy,R,228004,28044
+322,Like Someone in Love,2/15/2013 0:00:00,IFC Films,Drama,Not Rated,222695,27391
+323,ABCD (Any Body Can Dance),2/8/2013 0:00:00,UTV Communications,Musical,Not Rated,222098,27318
+324,The Summit,10/4/2013 0:00:00,IFC Films,Documentary,R,219346,26979
+325,Arthur Newman,4/26/2013 0:00:00,Cinedigm,Drama,R,207853,25566
+326,Prince Avalanche,8/9/2013 0:00:00,Magnolia Pictures,Comedy,R,205139,25232
+327,Cloud Atlas,10/26/2012 0:00:00,Warner Bros.,Drama,R,205030,25218
+328,A Late Quartet,11/2/2012 0:00:00,Entertainment One,Drama,R,204736,25182
+329,You Will Be My Son,8/16/2013 0:00:00,Cohen Media Group,Drama,R,203636,25047
+330,Ghanchakkar,6/28/2013 0:00:00,UTV Communications,Comedy,Not Rated,203044,24974
+331,No Place on Earth,4/5/2013 0:00:00,Magnolia Pictures,Documentary,PG-13,200238,24629
+332,Crystal Fairy,7/12/2013 0:00:00,IFC Films,Comedy,Not Rated,195257,24016
+333,The Armstrong Lie,11/8/2013 0:00:00,Sony Pictures Classics,Documentary,R,194857,23967
+334,Not Fade Away,12/21/2012 0:00:00,Paramount Vantage,Drama,R,193906,23850
+335,Puella Magi Madoka Magica The Movie - Rebellion,12/6/2013 0:00:00,Eleven Arts,Adventure,Not Rated,190478,23429
+336,The Anonymous People,8/16/2013 0:00:00,Alive Mind,Documentary,Not Rated,187459,23057
+337,Populaire,9/6/2013 0:00:00,Weinstein Co.,Comedy,R,179091,22028
+338,Afternoon Delight,8/30/2013 0:00:00,Film Arcade,Comedy,R,174496,21463
+339,"5 de Mayo, La Batalla",5/3/2013 0:00:00,Pantelion Films,Action,R,173472,21337
+340,Escape from Tomorrow,10/11/2013 0:00:00,Producers Distribution Agency,Drama,Not Rated,171962,21151
+341,Copperhead,6/28/2013 0:00:00,Brainstorm Media,Drama,PG-13,171740,21124
+342,We Steal Secrets: The Story of Wikileaks,5/24/2013 0:00:00,Focus Features,Documentary,R,166243,20448
+343,On The Job,9/27/2013 0:00:00,Well Go USA,Thriller/Suspense,Not Rated,161217,19829
+344,The Past,12/20/2013 0:00:00,Sony Pictures Classics,Drama,PG-13,160213,19706
+345,Mother of George,9/13/2013 0:00:00,Oscilloscope Pictures,Drama,R,157937,19426
+346,A.C.O.D.,10/4/2013 0:00:00,Film Arcade,Comedy,R,157690,19396
+347,LUV,1/18/2013 0:00:00,Indomina Releasing,Drama,R,156996,19310
+348,Somm,6/21/2013 0:00:00,Samuel Goldwyn Films,Documentary,Not Rated,153620,18895
+349,Deceptive Practice: The Mysteries and Mentors of Ricky Jay,4/17/2013 0:00:00,Kino Lorber,Documentary,Not Rated,152449,18751
+350,Snake and Mongoose,8/9/2013 0:00:00,Rocky Mountain Pictures,Drama,PG-13,152223,18723
+351,The Patience Stone,8/14/2013 0:00:00,Sony Pictures Classics,Comedy,R,148408,18254
+352,Narco Cultura,11/22/2013 0:00:00,Cinedigm,Documentary,R,145088,17846
+353,Free the Mind,5/3/2013 0:00:00,International Film Circuit,Documentary,Not Rated,142008,17467
+354,John Dies at the End,1/25/2013 0:00:00,Magnet Pictures,Black Comedy,R,141951,17460
+355,Good Ol' Freda,9/6/2013 0:00:00,Magnolia Pictures,Documentary,PG,138811,17073
+356,American Promise,10/18/2013 0:00:00,Rada Film Group,Documentary,Not Rated,136385,16775
+357,Ernest & Celestine,2/28/2014 0:00:00,GKIDS,Adventure,Not Rated,135918,16718
+358,Fists of Legend,4/12/2013 0:00:00,CJ Entertainment,Action,Not Rated,134213,16508
+359,Is the Man Who Is Tall Happy?,11/22/2013 0:00:00,IFC Films,Documentary,Not Rated,132409,16286
+360,Free Angela & All Political Prisoners,4/5/2013 0:00:00,CODEBLACK Films/Lionsgate,Documentary,Not Rated,129102,15879
+361,Drug War,7/26/2013 0:00:00,Variance Films,Thriller/Suspense,R,128195,15768
+362,A Band Called Death,6/28/2013 0:00:00,Drafthouse Films,Documentary,Not Rated,127257,15652
+363,Europa Report,8/2/2013 0:00:00,Magnolia Pictures,Thriller/Suspense,PG-13,125687,15459
+364,Cutie and the Boxer,8/16/2013 0:00:00,Radius,Documentary,R,125382,15422
+365,Fukrey,6/14/2013 0:00:00,Excel Entertainment,Comedy,Not Rated,124221,15279
+366,Lost and Found in Armenia,6/7/2013 0:00:00,High Top Releasing,Comedy,Not Rated,122305,15043
+367,Spark: A Burning Man Story,8/16/2013 0:00:00,Paladin,Documentary,Not Rated,120459,14816
+368,Ice Age: Continental Drift,7/13/2012 0:00:00,20th Century Fox,Adventure,PG,117761,14484
+369,Beyond the Hills,3/8/2013 0:00:00,IFC Films,Drama,Not Rated,117287,14426
+370,Storm Surfers 3D,4/26/2013 0:00:00,XLrater Media,Documentary,Not Rated,117090,14402
+371,The Invisible Woman,12/25/2013 0:00:00,Sony Pictures Classics,Drama,R,116840,14371
+372,Yossi,1/25/2013 0:00:00,Strand,Drama,Not Rated,116207,14293
+373,The Punk Singer,11/29/2013 0:00:00,IFC Films,Documentary,Not Rated,115814,14245
+374,Ain't in It for My Health: A Film About Levon Helm,3/31/2013 0:00:00,Kino Lorber,Documentary,Not Rated,111794,13750
+375,End of Watch,9/21/2012 0:00:00,Open Road,Thriller/Suspense,R,111551,13720
+376,Therese,8/23/2013 0:00:00,MPI Media Group,Drama,Not Rated,109376,13453
+377,Augustine,5/17/2013 0:00:00,Music Box Films,Drama,Not Rated,107352,13204
+378,Big Star: Nothing Can Hurt Me,7/3/2013 0:00:00,Magnolia Pictures,Documentary,PG-13,105998,13037
+379,A Touch of Sin,10/4/2013 0:00:00,Kino Lorber,Drama,Not Rated,103927,12783
+380,Upside Down,3/15/2013 0:00:00,Alchemy,Romantic Comedy,PG-13,102118,12560
+381,Computer Chess,7/17/2013 0:00:00,Kino Lorber,Comedy,Not Rated,101718,12511
+382,The Broken Circle Breakdown,11/1/2013 0:00:00,TriBeca Films,Drama,Not Rated,101700,12509
+383,Shadow Dancer,5/31/2013 0:00:00,Magnolia Pictures,Thriller/Suspense,R,100616,12375
+384,One Track Heart: The Story of Krishna Das,5/8/2013 0:00:00,Zeitgeist,Documentary,Not Rated,100401,12349
+385,The Silence,3/8/2013 0:00:00,Music Box Films,Thriller/Suspense,Not Rated,100214,12326
+386,Spinning Plates,10/25/2013 0:00:00,Film Arcade,Documentary,Not Rated,99127,12192
+387,Gimme the Loot,3/22/2013 0:00:00,IFC Films,Drama,Not Rated,99070,12185
+388,The Investigator,9/13/2013 0:00:00,Gabriel's Messenger Films,Drama,PG-13,93690,11523
+389,Blue Caprice,9/13/2013 0:00:00,IFC Films,Drama,R,92336,11357
+390,Somebody Up There Likes Me,3/8/2013 0:00:00,TriBeca Films,Comedy,Not Rated,89435,11000
+391,Settai,4/5/2013 0:00:00,UTV Communications,Comedy,Not Rated,87838,10804
+392,Young Detective Dee: Rise of the Sea Dragon,9/27/2013 0:00:00,AMC Independent,Adventure,Not Rated,87783,10797
+393,Passion,8/30/2013 0:00:00,Entertainment One,Thriller/Suspense,R,85726,10544
+394,Byzantium,6/28/2013 0:00:00,IFC Films,Thriller/Suspense,R,85252,10486
+395,Reality,3/15/2013 0:00:00,Oscilloscope Pictures,Comedy,R,83736,10299
+396,Les beaux jours,10/25/2013 0:00:00,Mongrel Media,Drama,Not Rated,82510,10148
+397,Bettie Page Reveals All,11/22/2013 0:00:00,Music Box Films,Documentary,R,81776,10058
+398,We Are What We Are,9/27/2013 0:00:00,Entertainment One,Thriller/Suspense,R,81381,10009
+399,Holy Motors,10/17/2012 0:00:00,Indomina Releasing,Drama,Not Rated,80468,9897
+400,Una Noche,8/23/2013 0:00:00,IFC Films,Drama,Not Rated,79813,9817
+401,Harvest of Empire,9/28/2012 0:00:00,Onyx Films,Documentary,Not Rated,79627,9794
+402,Something in the Air,5/3/2013 0:00:00,IFC Films,Drama,Not Rated,79568,9786
+403,Stuck in Love,7/5/2013 0:00:00,Alchemy,Comedy,R,78950,9710
+404,The Artist and the Model,8/2/2013 0:00:00,Cohen Media Group,Drama,Not Rated,78504,9656
+405,Money for Nothing: Inside the Federal Reserve,9/6/2013 0:00:00,Liberty Street Films,Documentary,Not Rated,77619,9547
+406,Leviathan,3/1/2013 0:00:00,Cinema Guild,Documentary,Not Rated,76202,9372
+407,No One Lives,5/10/2013 0:00:00,Anchor Bay Entertainment,Horror,R,75121,9239
+408,Any Day Now,12/14/2012 0:00:00,Music Box Films,Drama,R,72004,8856
+409,More Than Honey,6/12/2013 0:00:00,Kino Lorber,Documentary,Not Rated,71977,8853
+410,An Oversimplification of Her Beauty,4/26/2013 0:00:00,Variance Films,Drama,Not Rated,71906,8844
+411,Seasons of Gray,10/18/2013 0:00:00,Echolight Studios,Drama,PG-13,70594,8683
+412,The Waiting Room,9/21/2012 0:00:00,International Film Circuit,Documentary,Not Rated,67815,8341
+413,After Tiller,9/20/2013 0:00:00,Oscilloscope Pictures,Documentary,PG-13,67414,8292
+414,Pandora's Promise,6/12/2013 0:00:00,Abramorama Films,Documentary,Not Rated,66680,8201
+415,Violette,6/13/2014 0:00:00,Adopt Films,Drama,Not Rated,65635,8073
+416,Beware of Mr. Baker,11/30/2012 0:00:00,SnagFilms,Documentary,Not Rated,63105,7761
+417,Becoming Traviata,5/15/2013 0:00:00,Distrib Films,Documentary,Not Rated,62652,7706
+418,Go For Sisters,11/8/2013 0:00:00,Variance Films,Thriller/Suspense,Not Rated,62107,7639
+419,Winnie Mandela,9/6/2013 0:00:00,Image Entertainment,Drama,R,61847,7607
+420,Don't Stop Believin': Everyman's Journey,3/8/2013 0:00:00,Cinedigm,Documentary,R,61018,7505
+421,It's a Disaster,4/12/2013 0:00:00,Oscilloscope Pictures,Comedy,R,60818,7480
+422,How I Live Now,11/8/2013 0:00:00,Magnolia Pictures,Drama,R,60360,7424
+423,The English Teacher,5/17/2013 0:00:00,Cinedigm,Comedy,Not Rated,60166,7400
+424,The Canyons,8/2/2013 0:00:00,IFC Films,Thriller/Suspense,R,59671,7339
+425,Elle s'en va,11/22/2013 0:00:00,Mongrel Media,Drama,Not Rated,59028,7260
+426,The Trials of Muhammad Ali,8/23/2013 0:00:00,Kino Lorber,Documentary,Not Rated,57641,7089
+427,Billy and Buddy,11/8/2013 0:00:00,Distrib Films,Comedy,Not Rated,56224,6915
+428,Terms and Conditions May Apply,7/12/2013 0:00:00,Variance Films,Documentary,Not Rated,55824,6866
+429,C.O.G.,9/20/2013 0:00:00,Screen Media Films,Comedy,R,55301,6802
+430,Final: The Rapture,9/13/2013 0:00:00,Riverrain,Thriller/Suspense,PG-13,54466,6699
+431,Leonie,3/15/2013 0:00:00,Monterey Media,Drama,PG-13,53692,6604
+432,The Square,10/25/2013 0:00:00,Noujaim Films,Documentary,Not Rated,52954,6513
+433,The Central Park Five,11/23/2012 0:00:00,IFC Films,Documentary,Not Rated,51906,6384
+434,Venus and Serena,5/10/2013 0:00:00,Magnolia Pictures,Documentary,PG-13,51271,6306
+435,God Loves Uganda,10/11/2013 0:00:00,Variance Films,Documentary,Not Rated,51229,6301
+436,Let the Fire Burn,10/2/2013 0:00:00,Zeitgeist,Documentary,Not Rated,49128,6042
+437,The Pervert's Guide to Ideology,11/1/2013 0:00:00,Zeitgeist,Documentary,Not Rated,49072,6035
+438,Un flic,4/19/2013 0:00:00,Rialto Pictures,Action,Not Rated,48040,5908
+439,Jewtopia,9/20/2013 0:00:00,Le Petit Canyon Productions,Romantic Comedy,Not Rated,46437,5711
+440,Wrong,3/29/2013 0:00:00,Drafthouse Films,Comedy,Not Rated,46021,5660
+441,Reaching for the Moon,11/8/2013 0:00:00,Wolfe Releasing,Documentary,Not Rated,45502,5596
+442,American Made Movie,8/30/2013 0:00:00,Variance Films,Documentary,G,45175,5556
+443,Greedy Lying Bastards,3/8/2013 0:00:00,Lambert Releasing,Documentary,PG-13,45000,5535
+444,My Brother the Devil,3/22/2013 0:00:00,Paladin/108 Media,Drama,Not Rated,44906,5523
+445,The We and the I,3/8/2013 0:00:00,Paladin/108 Media,Drama,Not Rated,42172,5187
+446,Diana Vreeland: The Eye Has to Travel,9/21/2012 0:00:00,Samuel Goldwyn Films,Documentary,PG-13,41683,5127
+447,Holla II,4/19/2013 0:00:00,Rockstone Releasing,Horror,R,41537,5109
+448,Wish You Were Here,6/7/2013 0:00:00,Entertainment One,Drama,R,41189,5066
+449,Bill W.,5/18/2012 0:00:00,Page 124 Productions,Documentary,Not Rated,41072,5051
+450,Sightseers,5/10/2013 0:00:00,IFC Films,Black Comedy,Not Rated,41039,5047
+451,Killing Them Softly,11/30/2012 0:00:00,Weinstein Co.,Thriller/Suspense,R,40560,4988
+452,Aftershock,5/10/2013 0:00:00,Weinstein Co.,Horror,R,40179,4942
+453,GMO OMG,9/13/2013 0:00:00,Submarine Deluxe,Documentary,Not Rated,39901,4907
+454,Escape Fire: The Fight to Rescue American Healthcare,10/5/2012 0:00:00,Roadside Attractions,Documentary,PG-13,39428,4849
+455,How to Make Money Selling Drugs,6/26/2013 0:00:00,TriBeca Films,Documentary,Not Rated,39192,4820
+456,Herb & Dorothy 50X50,9/13/2013 0:00:00,Fine Line,Documentary,Not Rated,38933,4788
+457,Post Tenebras Lux,5/1/2013 0:00:00,Strand,Drama,Not Rated,38911,4786
+458,The Short Game,9/20/2013 0:00:00,Phase 4 Films Sameul Goldwyn Films,Documentary,PG,38856,4779
+459,The Wall,5/31/2013 0:00:00,Music Box Films,Drama,Not Rated,38674,4756
+460,Concussion,10/4/2013 0:00:00,Radius,Drama,R,38361,4718
+461,Russian Ark,12/13/2002 0:00:00,WellSpring,Drama,Not Rated,37984,4672
+462,Ip Man: The Final Fight,9/20/2013 0:00:00,Well Go USA,Action,PG-13,37884,4659
+463,Mumia: Long Distance Revolutionary,2/1/2013 0:00:00,First Run Features,Documentary,Not Rated,37731,4640
+464,Rising From Ashes,7/26/2013 0:00:00,First Run Features,Documentary,Not Rated,37673,4633
+465,Savannah,8/23/2013 0:00:00,Ketchup Entertainment,Drama,PG-13,36746,4519
+466,Redemption,6/28/2013 0:00:00,Roadside Attractions,Thriller/Suspense,R,36686,4512
+467,Touchy Feely,9/6/2013 0:00:00,Magnolia Pictures,Drama,R,36128,4443
+468,A Glimpse Inside the Mind of Charles Swan III,2/8/2013 0:00:00,A24,Comedy,R,35586,4377
+469,M,3/15/2013 0:00:00,Kino Lorber,Drama,Not Rated,35566,4374
+470,Far Out Isn't Far Enough: The Tomi Ungerer Story,6/14/2013 0:00:00,First Run Features,Documentary,Not Rated,35431,4358
+471,The Girl,3/8/2013 0:00:00,Brainstorm Media,Drama,PG-13,35048,4310
+472,Underdogs,8/16/2013 0:00:00,Freestyle Releasing,Drama,PG,35017,4307
+473,I Give It a Year,8/9/2013 0:00:00,Magnolia Pictures,Romantic Comedy,R,34657,4262
+474,5 Broken Cameras,5/30/2012 0:00:00,Kino Lorber,Documentary,Not Rated,34376,4228
+475,Bert Stern: Original Mad Man,4/5/2013 0:00:00,First Run Features,Documentary,Not Rated,34005,4182
+476,Les 4 soldats,8/16/2013 0:00:00,Mongrel Media,Drama,Not Rated,33912,4171
+477,Running from Crazy,11/1/2013 0:00:00,Vitagraph Films,Documentary,Not Rated,33300,4095
+478,Dislecksia: The Movie,10/4/2013 0:00:00,Area 23a,Documentary,Not Rated,33066,4067
+479,Samsara,8/24/2012 0:00:00,Oscilloscope Pictures,Documentary,PG-13,32797,4034
+480,Berberian Sound Studio,6/14/2013 0:00:00,IFC Films,Horror,Not Rated,31641,3891
+481,Tai Chi Hero,4/26/2013 0:00:00,Well Go USA,Action,Not Rated,30830,3792
+482,Zaytoun,9/20/2013 0:00:00,Strand,Adventure,Not Rated,30743,3781
+483,Somewhere Between,8/24/2012 0:00:00,Long Shot Factory,Documentary,Not Rated,30515,3753
+484,The Power of Few,2/15/2013 0:00:00,Steelyard Pictures,Drama,R,30444,3744
+485,Long Shot: The Kevin Laue Story,10/25/2013 0:00:00,Cinipix,Documentary,PG-13,29863,3673
+486,A Fierce Green Fire,3/1/2013 0:00:00,First Run Features,Documentary,Not Rated,29817,3667
+487,Dead Man's Burden,5/3/2013 0:00:00,Cinedigm,Western,Not Rated,29634,3645
+488,The House I Live In,10/5/2012 0:00:00,Abramorama Films,Documentary,Not Rated,28970,3563
+489,Struck by Lightning,1/11/2013 0:00:00,TriBeca Films,Comedy,Not Rated,28378,3490
+490,Camille Claudel: 1915,10/16/2013 0:00:00,Kino Lorber,Drama,Not Rated,28355,3487
+491,Broadway Idiot,10/11/2013 0:00:00,FilmBuff,Documentary,Not Rated,27595,3394
+492,Tiger Eyes,6/7/2013 0:00:00,Freestyle Releasing,Drama,PG-13,27160,3340
+493,Maniac,6/21/2013 0:00:00,IFC Midnight,Thriller/Suspense,Not Rated,26826,3299
+494,At Berkeley,11/8/2013 0:00:00,Zipporah,Documentary,Not Rated,26482,3257
+495,The Sweeney,3/1/2013 0:00:00,Entertainment One,Action,R,26345,3240
+496,Gregory Crewdson: Brief Encounters,11/2/2012 0:00:00,Zeitgeist,Documentary,Not Rated,26162,3217
+497,Chasing Mavericks,10/26/2012 0:00:00,20th Century Fox,Drama,PG,25454,3130
+498,Graceland,4/26/2013 0:00:00,Drafthouse Films,Thriller/Suspense,Not Rated,24529,3017
+499,The Citizen,9/20/2013 0:00:00,Monterey Media,Drama,PG-13,24296,2988
+500,The Little Soldier,3/8/2013 0:00:00,Rialto Pictures,Drama,Not Rated,24296,2988
+501,Simon Killer,4/5/2013 0:00:00,IFC Films,Thriller/Suspense,Not Rated,24082,2962
+502,Paradies: Liebe,4/26/2013 0:00:00,Strand,Drama,Not Rated,23808,2928
+503,Greenwich Village: Music That Defined a Generation,1/18/2013 0:00:00,Kino Lorber,Documentary,Not Rated,23701,2915
+504,The Last Days on Mars,12/6/2013 0:00:00,Magnolia Pictures,Thriller/Suspense,R,23376,2875
+505,Our Children,8/2/2013 0:00:00,Distrib Films,Drama,Not Rated,23203,2853
+506,Capital,10/25/2013 0:00:00,Cohen Media Group,Drama,R,22400,2755
+507,Pieta,5/17/2013 0:00:00,Drafthouse Films,Drama,Not Rated,22080,2715
+508,V/H/S 2,7/12/2013 0:00:00,Magnet Pictures,Horror,R,21833,2685
+509,The ABCs of Death,3/8/2016 0:00:00,Magnolia Pictures,Horror,Not Rated,21832,2685
+510,The Other Son,10/26/2012 0:00:00,Cohen Media Group,Drama,PG-13,21709,2670
+511,Evocateur: The Morton Downey Jr. Movie,6/7/2013 0:00:00,Magnolia Pictures,Documentary,R,21652,2663
+512,Violeta Went to Heaven,3/29/2013 0:00:00,Kino Lorber,Drama,Not Rated,21496,2644
+513,The Intouchables,5/25/2012 0:00:00,Weinstein Co.,Comedy,R,21382,2630
+514,Brooklyn Castle,10/19/2012 0:00:00,Producers Distribution Agency,Documentary,PG,20743,2551
+515,The Ghosts in Our Machine,11/8/2013 0:00:00,"Ghosts Media, Inc.",Documentary,Not Rated,20709,2547
+516,Viola,7/12/2013 0:00:00,Cinema Guild,Drama,Not Rated,20669,2542
+517,Our Nixon,8/30/2013 0:00:00,Cinedigm,Documentary,Not Rated,20486,2519
+518,Hunky Dory,3/22/2013 0:00:00,Variance Films,Drama,Not Rated,20296,2496
+519,Nosotros Los Nobles,11/1/2013 0:00:00,Pantelion Films,Comedy,PG-13,19700,2423
+520,Bad Milo,10/4/2013 0:00:00,Magnolia Pictures,Black Comedy,R,19613,2412
+521,You Ain't Seen Nothin' Yet,6/7/2013 0:00:00,Kino Lorber,Drama,Not Rated,19373,2382
+522,Finding Nemo,5/30/2003 0:00:00,Walt Disney,Adventure,G,19209,2362
+523,Language of a Broken Heart,3/15/2013 0:00:00,House Lights Media,Comedy,R,19186,2359
+524,Hitler's Children,11/16/2012 0:00:00,Film Movement,Documentary,Not Rated,19160,2356
+525,Robot and Frank,8/17/2012 0:00:00,Samuel Goldwyn Films,Drama,PG-13,19040,2341
+526,Smash & Grab: The Story of the Pink Panthers,7/31/2013 0:00:00,Doppelganger Releasing,Documentary,Not Rated,18938,2329
+527,Nostalghia,5/31/2013 0:00:00,Kino Lorber,Documentary,Not Rated,18846,2318
+528,The Sorcerer and the White Snake,2/8/2013 0:00:00,Magnolia Pictures,Action,PG-13,18759,2307
+529,Masquerade,9/21/2012 0:00:00,CJ Entertainment,Drama,Not Rated,18681,2297
+530,A Single Shot,9/20/2013 0:00:00,TriBeca Films,Thriller/Suspense,Not Rated,18642,2292
+531,Let My People Go!,1/11/2013 0:00:00,Zeitgeist,Comedy,Not Rated,18529,2279
+532,Mental,3/29/2013 0:00:00,Dada Films,Comedy,Not Rated,17669,2173
+533,The History of Future Folk,5/31/2013 0:00:00,Variance Films,Comedy,Not Rated,17646,2170
+534,Jamel Shabazz: Street Photographer,8/2/2013 0:00:00,Artists Public Domain/Cinema Conservancy,Documentary,Not Rated,17378,2137
+535,Violet and Daisy,6/7/2013 0:00:00,Cinedigm,Action,R,17186,2113
+536,Le Pont du Nord,3/22/2013 0:00:00,The Film Desk,Comedy,Not Rated,17110,2104
+537,All in Good Time,2/8/2013 0:00:00,Mongrel Media,,Not Rated,17017,2093
+538,I Used to Be Darker,9/27/2013 0:00:00,Strand,Drama,Not Rated,16987,2089
+539,Torn,10/18/2013 0:00:00,The Film Collective,Drama,Not Rated,16772,2062
+540,Love and Honor,3/22/2013 0:00:00,IFC Films,Drama,PG-13,16769,2062
+541,Dealin' with Idiots,7/12/2013 0:00:00,IFC Films,Comedy,Not Rated,16757,2061
+542,The Look of Love,7/5/2013 0:00:00,IFC Films,Drama,Not Rated,16119,1982
+543,The Pardon,3/22/2013 0:00:00,Self Distributed,Drama,PG-13,16100,1980
+544,Out of the Clear Blue Sky,9/6/2013 0:00:00,Area 23a,Documentary,Not Rated,16050,1974
+545,Hating Breitbart,10/19/2012 0:00:00,Freestyle Releasing,Documentary,R,15296,1881
+546,As I Lay Dying,10/11/2013 0:00:00,Alchemy,Drama,R,15009,1846
+547,I Declare War,8/30/2013 0:00:00,Drafthouse Films,Drama,Not Rated,14928,1836
+548,Jayne Mansfield's Car,9/13/2013 0:00:00,Anchor Bay Entertainment,Drama,R,14836,1824
+549,Kiss of the Damned,5/3/2013 0:00:00,Magnolia Pictures,Drama,R,14752,1814
+550,In Another Country,11/9/2012 0:00:00,Kino Lorber,,Not Rated,14747,1813
+551,A Wedding Invitation,5/24/2013 0:00:00,CJ Entertainment,Romantic Comedy,Not Rated,14350,1765
+552,Design is One,10/11/2013 0:00:00,First Run Features,Documentary,Not Rated,14078,1731
+553,These Birds Walk,11/1/2013 0:00:00,Oscilloscope Pictures,Documentary,Not Rated,14000,1722
+554,Dorfman in Love,3/22/2013 0:00:00,Brainstorm Media,Romantic Comedy,PG-13,13737,1689
+555,The Invisible War,6/22/2012 0:00:00,Cinedigm,Documentary,Not Rated,13476,1657
+556,My Son,9/20/2013 0:00:00,FlyRock Media,Drama,R,12891,1585
+557,Detropia,9/7/2012 0:00:00,Loki Films,Documentary,Not Rated,12805,1575
+558,The Painting,1/28/2005 0:00:00,Castle Hill Productions,Drama,PG-13,11779,1448
+559,Picture Day,5/24/2013 0:00:00,ARC Entertainment,Comedy,R,11709,1440
+560,A Green Story,11/16/2012 0:00:00,Indican Pictures,Drama,Not Rated,11506,1415
+561,Greetings from Tim Buckley,5/3/2013 0:00:00,TriBeca Films,Drama,Not Rated,11157,1372
+562,Midget Zombie Takeover,2/8/2013 0:00:00,Driving With Our Eyes Shut,Comedy,Not Rated,10604,1304
+563,The Selfish Giant,12/20/2013 0:00:00,IFC Films,Drama,Not Rated,10531,1295
+564,Shanghai Calling,2/15/2013 0:00:00,Starz Media,Romantic Comedy,PG-13,10443,1284
+565,Liv & Ingmar,12/13/2013 0:00:00,Janus Films,Documentary,Not Rated,10347,1272
+566,Evil Intent,6/28/2013 0:00:00,,Thriller/Suspense,Not Rated,10336,1271
+567,Shepard & Dark,9/25/2013 0:00:00,Music Box Films,Documentary,Not Rated,10278,1264
+568,Informant,9/13/2013 0:00:00,Music Box Films,Documentary,Not Rated,10068,1238
+569,Red Obsession,9/6/2013 0:00:00,Area23a/FilmBuff,Documentary,Not Rated,9939,1222
+570,Orchestra of Exiles,10/26/2012 0:00:00,First Run Features,Documentary,Not Rated,9867,1213
+571,Birth of the Living Dead,10/18/2013 0:00:00,First Run Features,Documentary,Not Rated,9802,1205
+572,Caucus,10/25/2013 0:00:00,Bonfire Films of America,Documentary,Not Rated,9796,1204
+573,Il Futuro,9/6/2013 0:00:00,Strand,Drama,Not Rated,9722,1195
+574,Empire of Dirt,11/22/2013 0:00:00,Mongrel Media,Drama,Not Rated,9635,1185
+575,If I Were You,3/15/2013 0:00:00,Kino Lorber,Comedy,R,9432,1160
+576,Zero Charisma,10/11/2013 0:00:00,TriBeca Films,Comedy,Not Rated,9417,1158
+577,The End of Love,3/1/2013 0:00:00,Variance Films,Drama,Not Rated,9342,1149
+578,200 Cartas,6/14/2013 0:00:00,Vanguardia Films,Romantic Comedy,Not Rated,9338,1148
+579,11 Flowers,2/22/2013 0:00:00,First Run Features,Drama,Not Rated,9213,1133
+580,Ghost Team One,10/11/2013 0:00:00,Film Arcade,Comedy,R,9195,1130
+581,The Odd Life of Timothy Green,8/15/2012 0:00:00,Walt Disney,Drama,PG,9139,1124
+582,Galapagos,10/29/1999 0:00:00,IMAX Films,Documentary,Not Rated,9057,1114
+583,Tchoupitoulas,12/7/2012 0:00:00,Oscilloscope Pictures,Documentary,Not Rated,8944,1100
+584,Call Me Kuchu,6/14/2013 0:00:00,Cinedigm,Documentary,Not Rated,8941,1099
+585,White Elephant,3/29/2013 0:00:00,Strand,Drama,Not Rated,8863,1090
+586,La pirogue,1/23/2013 0:00:00,ArtMattan Productions,Drama,Not Rated,8836,1086
+587,Wagner & Me,12/7/2012 0:00:00,First Run Features,Documentary,Not Rated,8558,1052
+588,Hello Herman,6/7/2013 0:00:00,Freestyle Releasing,Drama,Not Rated,8437,1037
+589,Downloaded,6/21/2013 0:00:00,Abramorama Films,Documentary,Not Rated,8377,1030
+590,A Teacher,9/6/2013 0:00:00,Oscilloscope Pictures,Drama,Not Rated,8348,1026
+591,Only the Young,12/7/2012 0:00:00,Oscilloscope Pictures,Documentary,Not Rated,8174,1005
+592,Pawn Shop Chronicles,7/12/2013 0:00:00,Anchor Bay Entertainment,Action,R,8088,994
+593,La maison de la radio,9/4/2013 0:00:00,Kino Lorber,Documentary,Not Rated,8060,991
+594,Desperate Acts of Magic,5/3/2013 0:00:00,,Comedy,Not Rated,8053,990
+595,Nothing Left to Fear,10/4/2013 0:00:00,Anchor Bay Entertainment,Horror,R,7886,969
+596,Girls Against Boys,2/1/2013 0:00:00,Anchor Bay Entertainment,Thriller/Suspense,R,7529,926
+597,Maidentrip,12/20/2013 0:00:00,First Run Features,Documentary,Not Rated,7258,892
+598,Assaulted: Civil Rights Under Fire,6/20/2013 0:00:00,High Top Releasing,Documentary,PG-13,7054,867
+599,Welcome to the Punch,3/27/2013 0:00:00,IFC Films,Thriller/Suspense,R,7034,865
+600,The Brass Teapot,4/5/2013 0:00:00,Magnet Pictures,Black Comedy,R,6997,860
+601,Trouble Every Day,11/30/2001 0:00:00,Lot 47 Films,Horror,Not Rated,6949,854
+602,Sal,11/1/2013 0:00:00,TriBeca Films,Drama,Not Rated,6883,846
+603,Breakfast with Curtis,12/4/2013 0:00:00,,Comedy,Not Rated,6629,815
+604,Down the Shore,4/5/2013 0:00:00,Anchor Bay Entertainment,Drama,R,6558,806
+605,Some Velvet Morning,12/13/2013 0:00:00,TriBeca Films,Drama,Not Rated,6420,789
+606,100 Bloody Acres,6/28/2013 0:00:00,Doppelganger Releasing,Black Comedy,Not Rated,6388,785
+607,The Prey,6/7/2013 0:00:00,Cohen Media Group,Thriller/Suspense,R,6310,776
+608,The Monk,3/8/2013 0:00:00,ATO Pictures,Thriller/Suspense,R,6254,769
+609,The Girlfriends,6/18/2010 0:00:00,The Film Desk,Drama,Not Rated,6165,758
+610,Sweetwater,10/11/2013 0:00:00,,Thriller/Suspense,R,6147,756
+611,In Search of Blind Joe Death: The Saga of John Fahey,8/16/2013 0:00:00,First Run Features,Documentary,Not Rated,6132,754
+612,Welcome to Pine Hill,3/1/2013 0:00:00,Oscilloscope Pictures,Drama,Not Rated,6115,752
+613,Rangrezz,3/22/2013 0:00:00,UTV Communications,Drama,Not Rated,6108,751
+614,The Playroom,2/8/2013 0:00:00,Freestyle Releasing,Drama,Not Rated,5964,733
+615,The Worst Movie EVER!,8/19/2011 0:00:00,Hiltz Squared,Comedy,Not Rated,5909,726
+616,Manic,4/25/2003 0:00:00,,,R,5819,715
+617,Nothing But a Man,11/9/2012 0:00:00,APD/Cinema Conservancy,Drama,Not Rated,5809,714
+618,North Sea Texas,11/2/2012 0:00:00,Strand,Drama,Not Rated,5798,713
+619,Starlet,11/9/2012 0:00:00,Music Box Films,Drama,Not Rated,5788,711
+620,Five Dances,10/4/2013 0:00:00,Paladin,Drama,Not Rated,5788,711
+621,A Dark Truth,1/4/2013 0:00:00,Magnolia Pictures,Thriller/Suspense,Not Rated,5750,707
+622,Northern Lights,9/20/2013 0:00:00,Artists Public Domain/Cinema Conservancy,Drama,Not Rated,5291,650
+623,The Time Being,7/26/2013 0:00:00,TriBeca Films,Drama,Not Rated,5274,648
+624,My Worst Nightmare,10/19/2012 0:00:00,Strand,Comedy,Not Rated,5181,637
+625,Brave,6/22/2012 0:00:00,Walt Disney,Adventure,PG,5111,628
+626,Bidder 70,5/17/2013 0:00:00,First Run Features,Documentary,Not Rated,5074,624
+627,Hell Baby,9/6/2013 0:00:00,Alchemy,Black Comedy,R,4980,612
+628,Nuclear Nation,12/11/2013 0:00:00,First Run Features,Documentary,Not Rated,4960,610
+629,Herman's House,4/19/2013 0:00:00,First Run Features,Documentary,Not Rated,4956,609
+630,Supporting Characters,1/25/2013 0:00:00,TriBeca Films,Comedy,Not Rated,4917,604
+631,Revelation Road 2,7/12/2013 0:00:00,Freestyle Releasing,,Not Rated,4871,599
+632,The Flat,10/19/2012 0:00:00,IFC Films,Documentary,Not Rated,4820,592
+633,Ferlinghetti: A Rebirth of Wonder,2/8/2012 0:00:00,First Run Features,Documentary,Not Rated,4816,592
+634,The Man Who Shook the Hand of Vicente Fernandez,12/7/2012 0:00:00,Indican Pictures,Comedy,Not Rated,4758,585
+635,Big Sur,11/1/2013 0:00:00,Ketchup Entertainment,Drama,R,4734,582
+636,Argento's Dracula 3D,10/4/2013 0:00:00,IFC Midnight,Horror,Not Rated,4556,560
+637,All is Bright,10/4/2013 0:00:00,Anchor Bay Entertainment,Comedy,R,4556,560
+638,People of a Feather,11/8/2013 0:00:00,First Run Features,Documentary,Not Rated,4483,551
+639,When the Iron Bird Flies,10/19/2012 0:00:00,Alive Mind,Documentary,Not Rated,4423,544
+640,Paradise: Faith,8/23/2013 0:00:00,Strand,Drama,Not Rated,4416,543
+641,Radio Unnameable,9/19/2012 0:00:00,Kino Lorber,Documentary,Not Rated,4414,542
+642,Inescapable,2/22/2013 0:00:00,IFC Films,Thriller/Suspense,R,4327,532
+643,The Revisionaries,10/5/2012 0:00:00,Kino Lorber,Documentary,Not Rated,4155,511
+644,Red Flag,2/22/2013 0:00:00,TriBeca Films,Romantic Comedy,Not Rated,4150,510
+645,Rubberneck,2/22/2013 0:00:00,TriBeca Films,Thriller/Suspense,Not Rated,4150,510
+646,Silver Circle,3/22/2013 0:00:00,Hybrid Pictures,Thriller/Suspense,PG-13,4080,501
+647,The Kitchen,3/14/2013 0:00:00,Monterey Media,Comedy,R,4054,498
+648,A Werewolf Boy,11/30/2012 0:00:00,CJ Entertainment,Drama,Not Rated,4046,497
+649,Morning,9/27/2013 0:00:00,Anchor Bay Entertainment,Drama,R,4029,495
+650,Things Never Said,9/6/2013 0:00:00,Ohio Street Pictures,Drama,R,4000,492
+651,Magnificent Desolation,9/23/2005 0:00:00,IMAX Films,Documentary,Not Rated,3929,483
+652,Max et les ferrailleurs,8/10/2012 0:00:00,Rialto Pictures,Drama,Not Rated,3891,478
+653,Arbitrage,9/14/2012 0:00:00,Roadside Attractions,Thriller/Suspense,R,3752,461
+654,Mr. Nobody,11/1/2013 0:00:00,Magnolia Pictures,Drama,R,3622,445
+655,Tricked,12/13/2013 0:00:00,Kino Lorber,Documentary,Not Rated,3533,434
+656,The Condemned,3/1/2013 0:00:00,Strand,Thriller/Suspense,Not Rated,3489,429
+657,The Happy Poet,3/13/2013 0:00:00,Cinema Libre,Comedy,Not Rated,3400,418
+658,Contracted,11/22/2013 0:00:00,Arclight Films,Horror,Not Rated,3328,409
+659,Here Comes the Devil,12/13/2013 0:00:00,Magnolia Pictures,Horror,R,3271,402
+660,Plush,9/13/2013 0:00:00,IM Global/Blumhouse,Thriller/Suspense,R,3080,378
+661,Drew: The Man Behind the Poster,8/16/2013 0:00:00,Kino Lorber,Documentary,Not Rated,3078,378
+662,All Together,10/19/2012 0:00:00,Kino Lorber,Comedy,Not Rated,3077,378
+663,A Girl and a Gun,7/4/2013 0:00:00,First Run Features,Documentary,Not Rated,3018,371
+664,Pawn,4/19/2013 0:00:00,Anchor Bay Entertainment,Thriller/Suspense,R,2793,343
+665,What Richard Did,5/10/2013 0:00:00,TriBeca Films,Documentary,Not Rated,2749,338
+666,Deadfall,12/7/2012 0:00:00,Magnolia Pictures,Thriller/Suspense,Not Rated,2713,333
+667,Come Out and Play,3/22/2013 0:00:00,,Horror,R,2638,324
+668,Sparrows Dance,8/23/2013 0:00:00,TriBeca Films,Romantic Comedy,Not Rated,2602,320
+669,Last Flight of the Champion,8/30/2013 0:00:00,High Top Releasing,Comedy,PG,2597,319
+670,Axe Giant: The Wrath of Paul Bunyan,5/31/2013 0:00:00,Cinema Purgatorio,Horror,R,2498,307
+671,Men at Lunch,9/20/2013 0:00:00,First Run Features,Documentary,Not Rated,2483,305
+672,The Ghastly Love of Johnny X,10/26/2012 0:00:00,Strand,Comedy,Not Rated,2436,299
+673,The Happy House,5/3/2013 0:00:00,First Run Features,Black Comedy,Not Rated,2311,284
+674,Cassadaga,10/11/2013 0:00:00,Archstone Entertainment,Horror,R,2241,275
+675,Implanted,8/9/2013 0:00:00,Walking Shadows,Drama,Not Rated,2210,271
+676,InSpectres,9/5/2013 0:00:00,Reacter 88 Studios,Comedy,Not Rated,2207,271
+677,Django,12/21/2012 0:00:00,Rialto Pictures,Western,Not Rated,2114,260
+678,Knife Fight,1/25/2013 0:00:00,IFC Films,Thriller/Suspense,R,2019,248
+679,Best Man Down,11/8/2013 0:00:00,Magnolia Pictures,Comedy,PG-13,1938,238
+680,The Stroller Strategy,6/14/2013 0:00:00,Rialto Pictures,Romantic Comedy,Not Rated,1799,221
+681,Detention of the Dead,6/28/2013 0:00:00,Anchor Bay Entertainment,Comedy,Not Rated,1778,218
+682,You Don't Need Feet to Dance,3/22/2013 0:00:00,First Run Features,Documentary,Not Rated,1719,211
+683,Eddie: The Sleepwalking Cannibal,4/5/2013 0:00:00,Doppelganger Releasing,Comedy,Not Rated,1632,200
+684,California Solo,11/30/2012 0:00:00,Strand,Drama,Not Rated,1566,192
+685,Summer,6/9/2011 0:00:00,The Film Desk,,R,1566,192
+686,Officer Down,1/18/2013 0:00:00,Anchor Bay Entertainment,Drama,R,1463,179
+687,Meet the Fokkens,8/8/2012 0:00:00,Kino Lorber,Documentary,Not Rated,1453,178
+688,We Won't Grow Old Together,6/8/2012 0:00:00,The Film Desk,,Not Rated,1303,160
+689,Sushi: The Global Catch,8/3/2012 0:00:00,Alive Mind,Documentary,Not Rated,1174,144
+690,A Zombie Invasion,12/12/2013 0:00:00,Afterlight Pictures,Horror,Not Rated,1170,143
+691,Caught in the Web,11/27/2013 0:00:00,levelFILM,Drama,Not Rated,1037,127
+692,Jerusalem,9/13/2013 0:00:00,National Geographic Entertainment,Documentary,Not Rated,962,118
+693,Putin's Kiss,2/17/2012 0:00:00,Kino Lorber,Documentary,Not Rated,938,115
+694,I Spit on Your Grave 2,9/20/2013 0:00:00,Anchor Bay Entertainment,Horror,R,810,99
+695,Into the White,4/12/2013 0:00:00,Magnolia Pictures,Drama,R,704,86
+696,Syrup,6/7/2013 0:00:00,Magnolia Pictures,Comedy,R,663,81
+697,Hammer of the Gods,7/5/2013 0:00:00,Magnet Pictures,Action,R,614,75
+698,Terkel in Trouble,3/26/2010 0:00:00,,Adventure,Not Rated,500,61
+699,The Long Day Closes,3/23/2012 0:00:00,The Film Desk,Drama,PG,399,49
+700,A Perfect Man,11/1/2013 0:00:00,IFC Films,Drama,R,388,47
+701,Breathing,8/31/2012 0:00:00,Kino Lorber,Drama,Not Rated,372,45
+702,The End of Time,11/29/2013 0:00:00,First Run Features,Documentary,Not Rated,221,27
+703,Citadel,11/9/2012 0:00:00,Cinedigm,Horror,R,176,21
+704,Free Radicals: A History of Experimental Film,8/3/2012 0:00:00,Kino Lorber,Documentary,Not Rated,115,14
+705,Storage 24,1/11/2013 0:00:00,Magnet Pictures,Horror,R,72,8
+706,To Die is Hard,12/17/2010 0:00:00,Driving With Our Eyes Shut,Comedy,Not Rated,56,6

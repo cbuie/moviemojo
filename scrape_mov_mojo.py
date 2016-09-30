@@ -61,8 +61,8 @@ def runtime_to_minutes(runtimestring):
 
 
 # variables year and number of pages to construct url
-#year = range(2011, 2016, 1) #marked out to add 2016 data
-year = '2016'
+year = range(2000, 2011, 1) #marked out to add 2016 data
+# year = '2016'
 num_pages = range(1,8)
 
 # loop through variables above and create urls
@@ -134,7 +134,7 @@ for l in set(links_list):
     time.sleep(0.13)
 
 import pandas as pd
-movie_data1 = pd.DataFrame(movie_data)
+movie_data2 = pd.DataFrame(movie_data)
 # movie_data1.to_csv('movie_data_2016.csv')
 
 
